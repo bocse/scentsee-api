@@ -1,0 +1,26 @@
+# git properties
+git.properties
+
+# Maven build folder
+target/
+
+# lotame example datadump
+**/etc/lotame/example/*
+
+# IntelliJ/Eclipse files #
+*.iml
+.idea/*
+.classpath
+.project
+.settings/*
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+/target/

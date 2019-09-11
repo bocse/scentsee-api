@@ -1,0 +1,24 @@
+{
+  "name": "My Perfume",
+  "gender": "FEMALE",
+  "description": "Something something",
+  "id": 234234,
+  "topChosenNotes": {
+    "citrus": 1.0
+  },
+  "heartChosenNotes": {
+    "rose": 1.0
+  },
+  "baseChosenNotes": {
+    "musk": 1.0
+  },
+  "originatingAnswers": {
+    "intention": "self",
+    "skin-complexion": "dark",
+    "hair-color": "brunette-dark",
+    "skin-type": "dry",
+    "spicy": "yes",
+    "diet": "vegan",
+    "flowers": "jasmin"
+  }
+}

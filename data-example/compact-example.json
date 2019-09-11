@@ -1,0 +1,5168 @@
+[
+  {
+    "name": "Good Girl",
+    "brand": "Carolina Herrera",
+    "year": 2016,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3904031633606977.jpg",
+    "gender": "FEMALE",
+    "description": "Good Girl is a new perfume by Carolina Herrera for women and was released in 2016. The scent is synthetic-flowery. It is being produced by Puig.",
+    "id": 3904031633606977,
+    "affiliateProducts": {
+      "affiliate-id-1": [
+        {
+          "searchableName": "carolina herrera goodgirl",
+          "name": "goodgirl",
+          "brand": "carolina herrera",
+          "quantity": 80.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 575.0,
+          "gender": "MALE",
+          "vendor": "affiliate-id-1"
+        },
+        {
+          "searchableName": "carolina herrera goodgirl",
+          "name": "goodgirl",
+          "brand": "carolina herrera",
+          "quantity": 50.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 425.0,
+          "gender": "MALE",
+          "vendor": "affiliate-id-1"
+        },
+        {
+          "searchableName": "carolina herrera goodgirl",
+          "name": "goodgirl",
+          "brand": "carolina herrera",
+          "quantity": 30.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 275.0,
+          "gender": "MALE",
+          "vendor": "affiliate-id-1"
+        }
+      ],
+      "affiliate-id-2": [
+        {
+          "searchableName": "carolina herrera goodgirl",
+          "name": "goodgirl",
+          "brand": "Carolina Herrera",
+          "quantity": 80.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 575.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-2"
+        },
+        {
+          "searchableName": "carolina herrera goodgirl",
+          "name": "goodgirl",
+          "brand": "Carolina Herrera",
+          "quantity": 50.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 425.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-2"
+        },
+        {
+          "searchableName": "carolina herrera goodgirl",
+          "name": "goodgirl",
+          "brand": "Carolina Herrera",
+          "quantity": 30.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 275.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-2"
+        }
+      ]
+    },
+    "inProduction": true,
+    "searchableName": "good girl carolina herrera",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "tuberose",
+      "jasmine sambac",
+      "roasted tonka bean",
+      "cocoa"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "GOURMANDY": 1.0,
+      "ORIENTAL": 1.0,
+      "FLORAL": 2.0
+    },
+    "substandard": true,
+    "scentR": 6.9,
+    "scentP": 7,
+    "sillageR": 6.8,
+    "sillageP": 5,
+    "longevityR": 7.6,
+    "longevityP": 5,
+    "bottleR": 5.2,
+    "bottleP": 39
+  },
+  {
+    "name": "Invictus (Eau de Toilette)",
+    "brand": "Paco Rabanne",
+    "year": 2013,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/1941345784414538.jpg",
+    "gender": "MALE",
+    "description": "Invictus (Eau de Toilette) is a perfume by Paco Rabanne for men and was released in 2013. The scent is synthetic-sweet. It is being produced by Puig.",
+    "id": 1941345784414538,
+    "affiliateProducts": {
+      "affiliate-id-1": [
+        {
+          "searchableName": "paco rabanne invictus",
+          "name": "invictus",
+          "brand": "paco rabanne",
+          "quantity": 150.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 475.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-1"
+        },
+        {
+          "searchableName": "paco rabanne invictus",
+          "name": "invictus",
+          "brand": "paco rabanne",
+          "quantity": 100.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 325.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-1"
+        },
+        {
+          "searchableName": "paco rabanne invictus",
+          "name": "invictus",
+          "brand": "paco rabanne",
+          "quantity": 50.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 275.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-1"
+        }
+      ],
+      "affiliate-id-2": [
+        {
+          "searchableName": "paco rabanne invictus",
+          "name": "invictus",
+          "brand": "Paco Rabanne",
+          "quantity": 150.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 475.0,
+          "gender": "MALE",
+          "vendor": "affiliate-id-2"
+        }
+      ]
+    },
+    "inProduction": true,
+    "searchableName": "invictus eau de toilette paco rabanne",
+    "topNotes": [
+      "grapefruit",
+      "marine notes"
+    ],
+    "heartNotes": [
+      "bay leaf",
+      "jasmine"
+    ],
+    "baseNotes": [
+      "gaiac wood",
+      "oakmoss",
+      "patchouli",
+      "ambergris"
+    ],
+    "mixedNotes": [
+      "grapefruit",
+      "marine notes",
+      "bay leaf",
+      "jasmine",
+      "gaiac wood",
+      "oakmoss",
+      "patchouli",
+      "ambergris"
+    ],
+    "topSignature": {
+      "CITRIC": 1.0,
+      "AQUATIC": 1.0
+    },
+    "heartSignature": {
+      "SPICY": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "MOSSY": 1.0,
+      "ORIENTAL": 1.0,
+      "ANIMALIC": 1.0,
+      "WOODY": 1.0
+    },
+    "mixedSignature": {
+      "MOSSY": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "ANIMALIC": 1.0,
+      "SPICY": 1.0,
+      "WOODY": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "AQUATIC": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 5.2,
+    "scentP": 316,
+    "sillageR": 6.7,
+    "sillageP": 202,
+    "longevityR": 7.3,
+    "longevityP": 202,
+    "bottleR": 4.7,
+    "bottleP": 237
+  },
+  {
+    "name": "Invictus Aqua",
+    "brand": "Paco Rabanne",
+    "year": 2016,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/9026005065203025.jpg",
+    "gender": "MALE",
+    "description": "Invictus Aqua is a new and limited perfume by Paco Rabanne for men and was released in 2016. The scent is synthetic-citrusy. It is being produced by Puig.",
+    "id": 9026005065203025,
+    "affiliateProducts": {
+      "affiliate-id-1": [
+        {
+          "searchableName": "paco rabanne invictus",
+          "name": "invictus",
+          "brand": "paco rabanne",
+          "quantity": 150.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 475.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-1"
+        },
+        {
+          "searchableName": "paco rabanne invictus",
+          "name": "invictus",
+          "brand": "paco rabanne",
+          "quantity": 100.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 325.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-1"
+        },
+        {
+          "searchableName": "paco rabanne invictus",
+          "name": "invictus",
+          "brand": "paco rabanne",
+          "quantity": 50.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 275.0,
+          "gender": "FEMALE",
+          "vendor": "affiliate-id-1"
+        }
+      ],
+      "affiliate-id-2": [
+        {
+          "searchableName": "paco rabanne invictus",
+          "name": "invictus",
+          "brand": "Paco Rabanne",
+          "quantity": 150.0,
+          "currency": "RON",
+          "AffiliateURL": "",
+          "price": 475.0,
+          "gender": "MALE",
+          "vendor": "affiliate-id-2"
+        }
+      ]
+    },
+    "inProduction": true,
+    "searchableName": "invictus aqua paco rabanne",
+    "topNotes": [
+      "yuzu zest",
+      "grapefruit zest",
+      "pink pepper"
+    ],
+    "heartNotes": [
+      "marine notes",
+      "violet leaf"
+    ],
+    "baseNotes": [
+      "gaiac wood",
+      "ambergris",
+      "ambery wood"
+    ],
+    "mixedNotes": [
+      "yuzu zest",
+      "grapefruit zest",
+      "pink pepper",
+      "marine notes",
+      "violet leaf",
+      "gaiac wood",
+      "ambergris",
+      "ambery wood"
+    ],
+    "topSignature": {
+      "CITRIC": 2.0,
+      "SPICY": 1.0
+    },
+    "heartSignature": {
+      "FLORAL": 1.0,
+      "AQUATIC": 1.0
+    },
+    "baseSignature": {
+      "ANIMALIC": 1.0,
+      "AMBER": 1.0,
+      "WOODY": 2.0
+    },
+    "mixedSignature": {
+      "CITRIC": 2.0,
+      "ANIMALIC": 1.0,
+      "AMBER": 1.0,
+      "SPICY": 1.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "AQUATIC": 1.0
+    },
+    "substandard": false,
+    "scentR": 6.2,
+    "scentP": 51,
+    "sillageR": 5.9,
+    "sillageP": 45,
+    "longevityR": 6.2,
+    "longevityP": 41,
+    "bottleR": 5.8,
+    "bottleP": 59
+  },
+  {
+    "name": "Series 7: Sweet - Wood Coffee",
+    "brand": "Comme des Garçons",
+    "year": 2005,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4208662033587065.jpg",
+    "gender": "UNI",
+    "description": "Series 7: Sweet - Wood Coffee is a perfume by Comme des Garçons for women and men and was released in 2005. The scent is spicy-woody. The production was apparently discontinued.",
+    "id": 4208662033587065,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 7 sweet  wood coffee comme des garcons",
+    "topNotes": [
+      "ginger",
+      "cardamom",
+      "licorice"
+    ],
+    "heartNotes": [
+      "curry",
+      "coffee",
+      "almond"
+    ],
+    "baseNotes": [
+      "woods",
+      "patchouli",
+      "vanilla"
+    ],
+    "mixedNotes": [
+      "ginger",
+      "cardamom",
+      "licorice",
+      "curry",
+      "coffee",
+      "almond",
+      "woods",
+      "patchouli",
+      "vanilla"
+    ],
+    "topSignature": {
+      "GOURMANDY": 1.0,
+      "SPICY": 2.0
+    },
+    "heartSignature": {
+      "GOURMANDY": 1.0,
+      "BEVERAGES": 1.0,
+      "SPICY": 1.0,
+      "UNKNOWN": 1.0
+    },
+    "baseSignature": {
+      "ORIENTAL": 2.0,
+      "WOODY": 1.0
+    },
+    "mixedSignature": {
+      "GOURMANDY": 2.0,
+      "ORIENTAL": 2.0,
+      "BEVERAGES": 1.0,
+      "SPICY": 3.0,
+      "WOODY": 1.0,
+      "UNKNOWN": 1.0
+    },
+    "substandard": false,
+    "scentR": 8.1,
+    "scentP": 7,
+    "sillageR": 6.1,
+    "sillageP": 4,
+    "longevityR": 7.1,
+    "longevityP": 6,
+    "bottleR": 4.6,
+    "bottleP": 12
+  },
+  {
+    "name": "Black Comme des Garçons",
+    "brand": "Comme des Garçons",
+    "year": 2013,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3961748994358673.jpg",
+    "gender": "UNI",
+    "description": "Black Comme des Garçons is a popular perfume by Comme des Garçons for women and men and was released in 2013. The scent is smoky-spicy. It is being produced by Puig.",
+    "id": 3961748994358673,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "black comme des garcons comme des garcons",
+    "topNotes": [
+      "madagascan black pepper",
+      "somalian frankincense"
+    ],
+    "heartNotes": [
+      "leather",
+      "licorice",
+      "birch tar",
+      "california bay laurel"
+    ],
+    "baseNotes": [
+      "cedarwood",
+      "vetiver"
+    ],
+    "mixedNotes": [
+      "madagascan black pepper",
+      "somalian frankincense",
+      "leather",
+      "licorice",
+      "birch tar",
+      "california bay laurel",
+      "cedarwood",
+      "vetiver"
+    ],
+    "topSignature": {
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "SPICY": 1.0
+    },
+    "heartSignature": {
+      "GOURMANDY": 1.0,
+      "ANIMALIC": 2.0,
+      "LEATHER": 2.0,
+      "SPICY": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "WOODY": 2.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "GOURMANDY": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "ANIMALIC": 2.0,
+      "LEATHER": 2.0,
+      "SPICY": 2.0,
+      "WOODY": 2.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 2.0
+    },
+    "substandard": false,
+    "scentR": 7.9,
+    "scentP": 139,
+    "sillageR": 6.9,
+    "sillageP": 88,
+    "longevityR": 7.8,
+    "longevityP": 87,
+    "bottleR": 6.8,
+    "bottleP": 86
+  },
+  {
+    "name": "Monocle Scent Three: Sugi",
+    "brand": "Comme des Garçons",
+    "year": 2013,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5295040060260889.jpg",
+    "gender": "UNI",
+    "description": "Monocle Scent Three: Sugi is a popular perfume by Comme des Garçons for women and men and was released in 2013. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 5295040060260889,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "monocle scent three sugi comme des garcons",
+    "topNotes": [
+      "mediterranean cypress",
+      "madagascar pepper"
+    ],
+    "heartNotes": [
+      "florentine iris",
+      "virginia cedar"
+    ],
+    "baseNotes": [
+      "pine",
+      "haitian vetiver"
+    ],
+    "mixedNotes": [
+      "mediterranean cypress",
+      "madagascar pepper",
+      "florentine iris",
+      "virginia cedar",
+      "pine",
+      "haitian vetiver"
+    ],
+    "topSignature": {
+      "WOODY": 1.0,
+      "SPICY": 1.0
+    },
+    "heartSignature": {
+      "POWDERY": 1.0,
+      "WOODY": 1.0,
+      "FLORAL": 1.0
+    },
+    "baseSignature": {
+      "WOODY": 2.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "POWDERY": 1.0,
+      "WOODY": 4.0,
+      "SPICY": 1.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 8.0,
+    "scentP": 66,
+    "sillageR": 5.2,
+    "sillageP": 49,
+    "longevityR": 6.8,
+    "longevityP": 45,
+    "bottleR": 5.8,
+    "bottleP": 52
+  },
+  {
+    "name": "Series 7: Sweet - Nomad Tea",
+    "brand": "Comme des Garçons",
+    "year": 2005,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/1585936830998581.jpg",
+    "gender": "UNI",
+    "description": "Series 7: Sweet - Nomad Tea is a perfume by Comme des Garçons for women and men and was released in 2005. The scent is green-smoky. The production was apparently discontinued.",
+    "id": 1585936830998581,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 7 sweet  nomad tea comme des garcons",
+    "topNotes": [
+      "artemisia",
+      "wild mint"
+    ],
+    "heartNotes": [
+      "geranium leaf",
+      "green tea"
+    ],
+    "baseNotes": [
+      "woody notes",
+      "smoky notes",
+      "sugar"
+    ],
+    "mixedNotes": [
+      "artemisia",
+      "wild mint",
+      "geranium leaf",
+      "green tea",
+      "woody notes",
+      "smoky notes",
+      "sugar"
+    ],
+    "topSignature": {
+      "HERBACIOUS": 2.0,
+      "GREEN": 2.0
+    },
+    "heartSignature": {
+      "TEA": 1.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "GOURMANDY": 1.0,
+      "SMOKY": 1.0,
+      "WOODY": 1.0
+    },
+    "mixedSignature": {
+      "TEA": 1.0,
+      "GOURMANDY": 1.0,
+      "SMOKY": 1.0,
+      "WOODY": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 3.0
+    },
+    "substandard": false,
+    "scentR": 7.3,
+    "scentP": 10,
+    "sillageR": 6.1,
+    "sillageP": 5,
+    "longevityR": 7.5,
+    "longevityP": 6,
+    "bottleR": 6.4,
+    "bottleP": 11
+  },
+  {
+    "name": "Series 6: Synthetic - Dry Clean",
+    "brand": "Comme des Garçons",
+    "year": 2004,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/7273004587249312.jpg",
+    "gender": "UNI",
+    "description": "Series 6: Synthetic - Dry Clean is a perfume by Comme des Garçons for women and men and was released in 2004. The scent is flowery-fougère. The production was apparently discontinued.",
+    "id": 7273004587249312,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 6 synthetic  dry clean comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "aldehydes",
+      "gaiac wood",
+      "bay leaf",
+      "metal",
+      "nail polish",
+      "nail polish remover",
+      "ozone",
+      "wilted rose",
+      "frankincense"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "NON_CLASSIFIED": 3.0,
+      "ALDEHYDE": 1.0,
+      "WOODY": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "AQUATIC": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 8.2,
+    "scentP": 5,
+    "sillageR": 0.0,
+    "sillageP": 0,
+    "longevityR": 0.0,
+    "longevityP": 0,
+    "bottleR": 5.3,
+    "bottleP": 10
+  },
+  {
+    "name": "Series Luxe: Patchouli (Eau de Toilette)",
+    "brand": "Comme des Garçons",
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3861303603780275.jpg",
+    "gender": "UNI",
+    "description": "Series Luxe: Patchouli (Eau de Toilette) is a popular perfume by Comme des Garçons for women and men. The release year is unknown. The scent is woody-earthy. It is being produced by Puig.",
+    "id": 3861303603780275,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series luxe patchouli eau de toilette comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "white pepper",
+      "soy accord",
+      "patchouli",
+      "cedarwood",
+      "vanilla",
+      "oakmoss"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MOSSY": 1.0,
+      "ORIENTAL": 2.0,
+      "SPICY": 1.0,
+      "WOODY": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 8.2,
+    "scentP": 21,
+    "sillageR": 7.3,
+    "sillageP": 18,
+    "longevityR": 7.9,
+    "longevityP": 17,
+    "bottleR": 7.3,
+    "bottleP": 22
+  },
+  {
+    "name": "Series 1: Leaves - Shiso",
+    "brand": "Comme des Garçons",
+    "year": 2000,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8997197319440483.jpg",
+    "gender": "UNI",
+    "description": "Series 1: Leaves - Shiso is a perfume by Comme des Garçons for women and men and was released in 2000. The scent is spicy-citrusy. The production was apparently discontinued.",
+    "id": 8997197319440483,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 1 leaves  shiso comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "coriander",
+      "caraway",
+      "mint",
+      "cinnamon",
+      "lemon",
+      "citric notes"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "CITRIC": 2.0,
+      "SPICY": 3.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 0.0,
+    "scentP": 0,
+    "sillageR": 0.0,
+    "sillageP": 0,
+    "longevityR": 0.0,
+    "longevityP": 0,
+    "bottleR": 4.5,
+    "bottleP": 10
+  },
+  {
+    "name": "Comme des Garçons Eau de Parfum",
+    "brand": "Comme des Garçons",
+    "year": 1994,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8385446100575042.jpg",
+    "gender": "UNI",
+    "description": "Comme des Garçons Eau de Parfum is a perfume by Comme des Garçons for women and men and was released in 1994. The scent is spicy-woody. The longevity is above-average. It is being produced by Puig.",
+    "id": 8385446100575042,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "comme des garcons eau de parfum comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "clove",
+      "honey",
+      "cardamom",
+      "nutmeg",
+      "rose",
+      "sandalwood",
+      "black pepper",
+      "storax",
+      "frankincense",
+      "cedarwood",
+      "cinnamon",
+      "cistus"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "GOURMANDY": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 5.0,
+      "WOODY": 2.0,
+      "FLORAL": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.4,
+    "scentP": 101,
+    "sillageR": 7.7,
+    "sillageP": 61,
+    "longevityR": 8.8,
+    "longevityP": 68,
+    "bottleR": 7.4,
+    "bottleP": 61
+  },
+  {
+    "name": "Series Luxe: Champaca (Eau de Toilette)",
+    "brand": "Comme des Garçons",
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4983952347898107.jpg",
+    "gender": "UNI",
+    "description": "Series Luxe: Champaca (Eau de Toilette) is a perfume by Comme des Garçons for women and men. The release year is unknown. The scent is flowery-animal. It is being produced by Puig.",
+    "id": 4983952347898107,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series luxe champaca eau de toilette comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "white pepper",
+      "angelica",
+      "cardamom",
+      "champaca flower",
+      "chili",
+      "white musk",
+      "iris"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "POWDERY": 1.0,
+      "SPICY": 3.0,
+      "FLORAL": 2.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 0.0,
+    "scentP": 0,
+    "sillageR": 0.0,
+    "sillageP": 0,
+    "longevityR": 0.0,
+    "longevityP": 0,
+    "bottleR": 6.8,
+    "bottleP": 9
+  },
+  {
+    "name": "Series Luxe: Champaca (Eau de Parfum)",
+    "brand": "Comme des Garçons",
+    "year": 2007,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5599977307604651.jpg",
+    "gender": "UNI",
+    "description": "Series Luxe: Champaca (Eau de Parfum) is a perfume by Comme des Garçons for women and men and was released in 2007. The scent is flowery-sweet. The longevity is above-average. It is being produced by Puig.",
+    "id": 5599977307604651,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series luxe champaca eau de parfum comme des garcons",
+    "topNotes": [
+      "angelica",
+      "cardamom",
+      "pepper"
+    ],
+    "heartNotes": [
+      "champaca flower",
+      "pepper",
+      "tuberose"
+    ],
+    "baseNotes": [
+      "iris",
+      "musk"
+    ],
+    "mixedNotes": [
+      "angelica",
+      "cardamom",
+      "pepper",
+      "champaca flower",
+      "pepper",
+      "tuberose",
+      "iris",
+      "musk"
+    ],
+    "topSignature": {
+      "SPICY": 2.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "heartSignature": {
+      "SPICY": 1.0,
+      "FLORAL": 2.0
+    },
+    "baseSignature": {
+      "MUSK": 1.0,
+      "POWDERY": 1.0,
+      "FLORAL": 1.0
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "POWDERY": 1.0,
+      "SPICY": 3.0,
+      "FLORAL": 3.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 6.8,
+    "scentP": 17,
+    "sillageR": 7.6,
+    "sillageP": 14,
+    "longevityR": 8.1,
+    "longevityP": 13,
+    "bottleR": 6.4,
+    "bottleP": 19
+  },
+  {
+    "name": "Blue Invasion - Blue Santal",
+    "brand": "Comme des Garçons",
+    "year": 2013,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/931748669246333.jpg",
+    "gender": "UNI",
+    "description": "Blue Invasion - Blue Santal is a perfume by Comme des Garçons for women and men and was released in 2013. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 931748669246333,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "blue invasion  blue santal comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "sandalwood",
+      "pine",
+      "blue pepper",
+      "juniper berry"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "WOODY": 2.0,
+      "SPICY": 2.0
+    },
+    "substandard": true,
+    "scentR": 6.1,
+    "scentP": 74,
+    "sillageR": 5.6,
+    "sillageP": 46,
+    "longevityR": 6.4,
+    "longevityP": 42,
+    "bottleR": 7.2,
+    "bottleP": 55
+  },
+  {
+    "name": "Wisteria Hysteria",
+    "brand": "Comme des Garçons",
+    "year": 2014,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5435300918460043.jpg",
+    "gender": "UNI",
+    "description": "Wisteria Hysteria is a perfume by Comme des Garçons for women and men and was released in 2014. The scent is flowery-fresh. It is being produced by Puig.",
+    "id": 5435300918460043,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "wisteria hysteria comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "pepper",
+      "clove",
+      "frankincense",
+      "white wisteria",
+      "rose",
+      "mate leaf",
+      "musk",
+      "storax",
+      "benzoin",
+      "amber"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "TEA": 1.0,
+      "SMOKY": 1.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 2.0,
+      "AMBER": 1.0,
+      "RESINOUS": 2.0,
+      "SPICY": 2.0,
+      "FLORAL": 2.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.6,
+    "scentP": 14,
+    "sillageR": 4.8,
+    "sillageP": 11,
+    "longevityR": 7.0,
+    "longevityP": 10,
+    "bottleR": 7.7,
+    "bottleP": 20
+  },
+  {
+    "name": "Series 3: Incense - Zagorsk",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3321925513769686.jpg",
+    "gender": "UNI",
+    "description": "Series 3: Incense - Zagorsk is a perfume by Comme des Garçons for women and men and was released in 2002. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 3321925513769686,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 3 incense  zagorsk comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "birch wood",
+      "hinoki wood",
+      "iris",
+      "pine",
+      "pimento",
+      "violet",
+      "white frankincense",
+      "cedar"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "POWDERY": 1.0,
+      "WOODY": 4.0,
+      "SPICY": 1.0,
+      "FLORAL": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.3,
+    "scentP": 91,
+    "sillageR": 6.0,
+    "sillageP": 57,
+    "longevityR": 7.3,
+    "longevityP": 66,
+    "bottleR": 5.8,
+    "bottleP": 59
+  },
+  {
+    "name": "Comme des Garçons 2",
+    "brand": "Comme des Garçons",
+    "year": 1999,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4727853551269289.jpg",
+    "gender": "UNI",
+    "description": "Comme des Garçons 2 is a perfume by Comme des Garçons for women and men and was released in 1999. The scent is spicy-woody. It is being produced by Puig.",
+    "id": 4727853551269289,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "comme des garcons 2 comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "aldehydes",
+      "amber",
+      "angelica",
+      "leaves",
+      "cumin",
+      "labdanum",
+      "magnolia",
+      "mate",
+      "patchouli",
+      "ink",
+      "vetiver",
+      "juniper oil",
+      "frankincense",
+      "cedarwood"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "TEA": 1.0,
+      "MINERAL": 1.0,
+      "ORIENTAL": 2.0,
+      "AMBER": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 2.0,
+      "WOODY": 2.0,
+      "GREEN": 4.0,
+      "SYNTHETIC": 1.0,
+      "SMOKY": 1.0,
+      "ALDEHYDE": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.4,
+    "scentP": 335,
+    "sillageR": 6.5,
+    "sillageP": 214,
+    "longevityR": 7.3,
+    "longevityP": 232,
+    "bottleR": 7.3,
+    "bottleP": 206
+  },
+  {
+    "name": "Artek - Standard",
+    "brand": "Comme des Garçons",
+    "year": 2009,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/2367379690769321.jpg",
+    "gender": "UNI",
+    "description": "Artek - Standard is a popular perfume by Comme des Garçons for women and men and was released in 2009. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 2367379690769321,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "artek  standard comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "fennel",
+      "ginger",
+      "lemon",
+      "saffron",
+      "cedarwood",
+      "musk"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "CITRIC": 1.0,
+      "SPICY": 3.0,
+      "WOODY": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.5,
+    "scentP": 65,
+    "sillageR": 5.1,
+    "sillageP": 40,
+    "longevityR": 6.1,
+    "longevityP": 38,
+    "bottleR": 5.9,
+    "bottleP": 46
+  },
+  {
+    "name": "Series 6: Synthetic - Skai",
+    "brand": "Comme des Garçons",
+    "year": 2004,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5831271347592774.jpg",
+    "gender": "UNI",
+    "description": "Series 6: Synthetic - Skai is a perfume by Comme des Garçons for women and men and was released in 2004. The scent is synthetic-leathery. The production was apparently discontinued.",
+    "id": 5831271347592774,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 6 synthetic  skai comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "grapefruit",
+      "cardamom",
+      "labdanum",
+      "sandalwood",
+      "suede"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "CITRIC": 1.0,
+      "ANIMALIC": 1.0,
+      "RESINOUS": 1.0,
+      "LEATHER": 1.0,
+      "SPICY": 1.0,
+      "WOODY": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.9,
+    "scentP": 24,
+    "sillageR": 6.4,
+    "sillageP": 15,
+    "longevityR": 7.0,
+    "longevityP": 18,
+    "bottleR": 5.3,
+    "bottleP": 20
+  },
+  {
+    "name": "Stephen Jones",
+    "brand": "Comme des Garçons",
+    "year": 2008,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/9220710619302855.jpg",
+    "gender": "UNI",
+    "description": "Stephen Jones is a perfume by Comme des Garçons for women and men and was released in 2008. The scent is flowery-synthetic. The longevity is above-average. It is being produced by Puig.",
+    "id": 9220710619302855,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "stephen jones comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "violet leaf",
+      "meteorite",
+      "clove",
+      "carnation",
+      "rose",
+      "violet",
+      "jasmine",
+      "heliotrope",
+      "gaiac wood",
+      "magma",
+      "black cumin",
+      "vetiver",
+      "amber"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "AMBER": 1.0,
+      "NON_CLASSIFIED": 3.0,
+      "SPICY": 1.0,
+      "WOODY": 2.0,
+      "FLORAL": 6.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.9,
+    "scentP": 34,
+    "sillageR": 6.4,
+    "sillageP": 20,
+    "longevityR": 8.2,
+    "longevityP": 22,
+    "bottleR": 8.1,
+    "bottleP": 27
+  },
+  {
+    "name": "Series 8: Energy C - Lime",
+    "brand": "Comme des Garçons",
+    "year": 2008,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/6312648840184995.jpg",
+    "gender": "UNI",
+    "description": "Series 8: Energy C - Lime is a perfume by Comme des Garçons for women and men and was released in 2008. The scent is citrusy-fresh. It is being produced by Puig.",
+    "id": 6312648840184995,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 8 energy c  lime comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "lime",
+      "bergamot",
+      "green lemon",
+      "water jasmine",
+      "tea rose",
+      "lilyofthevalley",
+      "musk",
+      "cedar"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "CITRIC": 3.0,
+      "WOODY": 1.0,
+      "FLORAL": 3.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.3,
+    "scentP": 16,
+    "sillageR": 4.3,
+    "sillageP": 9,
+    "longevityR": 5.5,
+    "longevityP": 10,
+    "bottleR": 4.4,
+    "bottleP": 15
+  },
+  {
+    "name": "Holygrace",
+    "brand": "Comme des Garçons",
+    "year": 2010,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4643142465708186.jpg",
+    "gender": "FEMALE",
+    "description": "Holygrace is a perfume by Comme des Garçons for women and was released in 2010. The scent is flowery-spicy. The production was apparently discontinued.",
+    "id": 4643142465708186,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "holygrace comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "ginger",
+      "pink pepper",
+      "cardamom",
+      "jasmine",
+      "broom",
+      "red paprika",
+      "vanilla",
+      "amber",
+      "vetiver",
+      "storax"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "FRUITY": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "AMBER": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 4.0,
+      "WOODY": 1.0,
+      "FLORAL": 2.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.0,
+    "scentP": 25,
+    "sillageR": 5.6,
+    "sillageP": 19,
+    "longevityR": 6.1,
+    "longevityP": 18,
+    "bottleR": 6.8,
+    "bottleP": 26
+  },
+  {
+    "name": "Series 6: Synthetic - Tar",
+    "brand": "Comme des Garçons",
+    "year": 2004,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8518893174147900.jpg",
+    "gender": "UNI",
+    "description": "Series 6: Synthetic - Tar is a perfume by Comme des Garçons for women and men and was released in 2004. The scent is synthetic-smoky. It was last produced by Puig.",
+    "id": 8518893174147900,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 6 synthetic  tar comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "aldehydes",
+      "bergamot",
+      "floral notes",
+      "kerosene",
+      "leather",
+      "bay leaf",
+      "opoponax",
+      "plastic",
+      "sandalwood",
+      "storax",
+      "vetiver"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "CITRIC": 1.0,
+      "ANIMALIC": 1.0,
+      "NON_CLASSIFIED": 2.0,
+      "LEATHER": 1.0,
+      "RESINOUS": 2.0,
+      "ALDEHYDE": 1.0,
+      "SPICY": 1.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 2.0
+    },
+    "substandard": true,
+    "scentR": 6.0,
+    "scentP": 31,
+    "sillageR": 7.1,
+    "sillageP": 17,
+    "longevityR": 7.7,
+    "longevityP": 20,
+    "bottleR": 5.1,
+    "bottleP": 24
+  },
+  {
+    "name": "Series 7: Sweet - Spicy Cocoa",
+    "brand": "Comme des Garçons",
+    "year": 2005,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5426973535504460.jpg",
+    "gender": "UNI",
+    "description": "Series 7: Sweet - Spicy Cocoa is a perfume by Comme des Garçons for women and men and was released in 2005. The scent is gourmand-sweet. The production was apparently discontinued.",
+    "id": 5426973535504460,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 7 sweet  spicy cocoa comme des garcons",
+    "topNotes": [
+      "bergamot",
+      "dark chocolate",
+      "grapefruit"
+    ],
+    "heartNotes": [
+      "fennel",
+      "cardamom",
+      "coriander"
+    ],
+    "baseNotes": [
+      "chili",
+      "cocoa absolute",
+      "black pepper"
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "dark chocolate",
+      "grapefruit",
+      "fennel",
+      "cardamom",
+      "coriander",
+      "chili",
+      "cocoa absolute",
+      "black pepper"
+    ],
+    "topSignature": {
+      "GOURMANDY": 1.0,
+      "CITRIC": 2.0
+    },
+    "heartSignature": {
+      "SPICY": 3.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "GOURMANDY": 1.0,
+      "SPICY": 2.0
+    },
+    "mixedSignature": {
+      "GOURMANDY": 2.0,
+      "CITRIC": 2.0,
+      "SPICY": 5.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 5.8,
+    "scentP": 8,
+    "sillageR": 5.6,
+    "sillageP": 4,
+    "longevityR": 6.1,
+    "longevityP": 8,
+    "bottleR": 5.6,
+    "bottleP": 11
+  },
+  {
+    "name": "Floriental",
+    "brand": "Comme des Garçons",
+    "year": 2015,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8163496244080787.jpg",
+    "gender": "UNI",
+    "description": "Floriental is a new perfume by Comme des Garçons for women and men and was released in 2015. The scent is smoky-spicy. It is being produced by Puig.",
+    "id": 8163496244080787,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "floriental comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "labdanum",
+      "sandalwood",
+      "vetiver",
+      "frankincense",
+      "pink pepper",
+      "plum liqueur"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "GOURMANDY": 1.0,
+      "SMOKY": 1.0,
+      "FRUITY": 1.0,
+      "ORIENTAL": 1.0,
+      "BEVERAGES": 1.0,
+      "RESINOUS": 1.0,
+      "WOODY": 2.0,
+      "SPICY": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.3,
+    "scentP": 97,
+    "sillageR": 6.7,
+    "sillageP": 62,
+    "longevityR": 7.3,
+    "longevityP": 64,
+    "bottleR": 7.2,
+    "bottleP": 68
+  },
+  {
+    "name": "Play Red",
+    "brand": "Comme des Garçons",
+    "year": 2012,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/9218090311600439.jpg",
+    "gender": "UNI",
+    "description": "Play Red is a perfume by Comme des Garçons for women and men and was released in 2012. The scent is fruity-spicy. It is being produced by Puig.",
+    "id": 9218090311600439,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "play red comme des garcons",
+    "topNotes": [
+      "pink pepper",
+      "red mandarin",
+      "safraleine"
+    ],
+    "heartNotes": [
+      "geranium",
+      "red cherry accord",
+      "cinnamon"
+    ],
+    "baseNotes": [
+      "myrrh",
+      "osmanthus",
+      "tolu balsam"
+    ],
+    "mixedNotes": [
+      "pink pepper",
+      "red mandarin",
+      "safraleine",
+      "geranium",
+      "red cherry accord",
+      "cinnamon",
+      "myrrh",
+      "osmanthus",
+      "tolu balsam"
+    ],
+    "topSignature": {
+      "SYNTHETIC": 1.0,
+      "CITRIC": 1.0,
+      "SPICY": 2.0
+    },
+    "heartSignature": {
+      "FRUITY": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 1.0
+    },
+    "baseSignature": {
+      "FRUITY": 1.0,
+      "ORIENTAL": 1.0,
+      "RESINOUS": 2.0,
+      "FLORAL": 1.0,
+      "BALSAMIC": 1.0
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "FRUITY": 2.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "RESINOUS": 2.0,
+      "SPICY": 3.0,
+      "FLORAL": 2.0,
+      "BALSAMIC": 1.0
+    },
+    "substandard": false,
+    "scentR": 7.3,
+    "scentP": 17,
+    "sillageR": 6.0,
+    "sillageP": 11,
+    "longevityR": 7.2,
+    "longevityP": 12,
+    "bottleR": 5.6,
+    "bottleP": 22
+  },
+  {
+    "name": "Odeur 53",
+    "brand": "Comme des Garçons",
+    "year": 1998,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/9196792816081075.jpg",
+    "gender": "UNI",
+    "description": "Odeur 53 is a perfume by Comme des Garçons for women and men and was released in 1998. The scent is synthetic-fresh. It is being produced by Puig.",
+    "id": 9196792816081075,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "odeur 53 comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "oxygen",
+      "burning stone",
+      "mown grass",
+      "fresh laundry",
+      "desert sand",
+      "mountain air",
+      "metal",
+      "nail polish"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MINERAL": 2.0,
+      "NON_CLASSIFIED": 3.0,
+      "TEXTILE": 1.0,
+      "EARTHY": 1.0,
+      "AQUATIC": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 5.8,
+    "scentP": 35,
+    "sillageR": 5.3,
+    "sillageP": 18,
+    "longevityR": 6.6,
+    "longevityP": 23,
+    "bottleR": 6.6,
+    "bottleP": 31
+  },
+  {
+    "name": "Series 2: Red - Harissa",
+    "brand": "Comme des Garçons",
+    "year": 2001,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/6274289417982530.jpg",
+    "gender": "UNI",
+    "description": "Series 2: Red - Harissa is a perfume by Comme des Garçons for women and men and was released in 2001. The scent is spicy-fresh. It is being produced by Puig.",
+    "id": 6274289417982530,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 2 red  harissa comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "angelica",
+      "blood orange",
+      "cardamom",
+      "moroccan spices",
+      "nutmeg",
+      "red chili",
+      "saffron",
+      "tomato"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "FRUITY": 1.0,
+      "CITRIC": 1.0,
+      "SPICY": 5.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.4,
+    "scentP": 39,
+    "sillageR": 5.8,
+    "sillageP": 20,
+    "longevityR": 7.1,
+    "longevityP": 26,
+    "bottleR": 5.3,
+    "bottleP": 27
+  },
+  {
+    "name": "Wonderwood",
+    "brand": "Comme des Garçons",
+    "year": 2010,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4275077340549354.jpg",
+    "gender": "MALE",
+    "description": "Wonderwood is a popular perfume by Comme des Garçons for men and was released in 2010. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 4275077340549354,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "wonderwood comme des garcons",
+    "topNotes": [
+      "bergamot",
+      "madagascar pepper",
+      "nutmeg",
+      "somalian frankincense"
+    ],
+    "heartNotes": [
+      "cashmeran",
+      "christalon",
+      "gaiac wood",
+      "caraway",
+      "cedarwood"
+    ],
+    "baseNotes": [
+      "javanol",
+      "oud",
+      "sandalwood",
+      "vetiver"
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "madagascar pepper",
+      "nutmeg",
+      "somalian frankincense",
+      "cashmeran",
+      "christalon",
+      "gaiac wood",
+      "caraway",
+      "cedarwood",
+      "javanol",
+      "oud",
+      "sandalwood",
+      "vetiver"
+    ],
+    "topSignature": {
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "SPICY": 2.0
+    },
+    "heartSignature": {
+      "SYNTHETIC": 2.0,
+      "MUSK": 1.0,
+      "WOODY": 3.0,
+      "SPICY": 2.0,
+      "FLORAL": 1.0
+    },
+    "baseSignature": {
+      "SYNTHETIC": 1.0,
+      "ORIENTAL": 1.0,
+      "WOODY": 4.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "SYNTHETIC": 3.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 2.0,
+      "CITRIC": 1.0,
+      "SPICY": 4.0,
+      "WOODY": 7.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 7.5,
+    "scentP": 393,
+    "sillageR": 6.3,
+    "sillageP": 220,
+    "longevityR": 7.1,
+    "longevityP": 247,
+    "bottleR": 7.1,
+    "bottleP": 207
+  },
+  {
+    "name": "Series 8: Energy C - Lemon",
+    "brand": "Comme des Garçons",
+    "year": 2008,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/7222070655376519.jpg",
+    "gender": "UNI",
+    "description": "Series 8: Energy C - Lemon is a perfume by Comme des Garçons for women and men and was released in 2008. The scent is citrusy-fresh. It is being produced by Puig.",
+    "id": 7222070655376519,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 8 energy c  lemon comme des garcons",
+    "topNotes": [
+      "bergamot",
+      "lemon"
+    ],
+    "heartNotes": [
+      "angelica",
+      "cardamom",
+      "frankincense"
+    ],
+    "baseNotes": [
+      "musk",
+      "vetiver"
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "lemon",
+      "angelica",
+      "cardamom",
+      "frankincense",
+      "musk",
+      "vetiver"
+    ],
+    "topSignature": {
+      "CITRIC": 2.0
+    },
+    "heartSignature": {
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "SPICY": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "MUSK": 1.0,
+      "WOODY": 1.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 2.0,
+      "SPICY": 1.0,
+      "WOODY": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 2.0
+    },
+    "substandard": false,
+    "scentR": 6.0,
+    "scentP": 15,
+    "sillageR": 3.3,
+    "sillageP": 7,
+    "longevityR": 4.2,
+    "longevityP": 9,
+    "bottleR": 3.5,
+    "bottleP": 13
+  },
+  {
+    "name": "Series 3: Incense - Avignon",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3341859506859430.jpg",
+    "gender": "UNI",
+    "description": "Series 3: Incense - Avignon is a popular perfume by Comme des Garçons for women and men and was released in 2002. The scent is smoky-woody. It is being produced by Puig.",
+    "id": 3341859506859430,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 3 incense  avignon comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "elemi resin",
+      "labdanum",
+      "rosewood",
+      "patchouli",
+      "roman chamomile",
+      "vanilla",
+      "frankincense"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "ORIENTAL": 3.0,
+      "RESINOUS": 2.0,
+      "WOODY": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0
+    },
+    "substandard": true,
+    "scentR": 8.1,
+    "scentP": 215,
+    "sillageR": 6.3,
+    "sillageP": 128,
+    "longevityR": 7.4,
+    "longevityP": 144,
+    "bottleR": 5.9,
+    "bottleP": 135
+  },
+  {
+    "name": "Series 1: Leaves - Calamus",
+    "brand": "Comme des Garçons",
+    "year": 2000,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5229643653290776.jpg",
+    "gender": "UNI",
+    "description": "Series 1: Leaves - Calamus is a perfume by Comme des Garçons for women and men and was released in 2000. The scent is green-powdery. The production was apparently discontinued.",
+    "id": 5229643653290776,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 1 leaves  calamus comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "bamboo",
+      "angelica",
+      "red berries",
+      "celery seed"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "FRUITY": 1.0,
+      "SPICY": 1.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 3.0
+    },
+    "substandard": true,
+    "scentR": 6.5,
+    "scentP": 22,
+    "sillageR": 5.8,
+    "sillageP": 12,
+    "longevityR": 6.1,
+    "longevityP": 15,
+    "bottleR": 5.6,
+    "bottleP": 19
+  },
+  {
+    "name": "Dover Street Market",
+    "brand": "Comme des Garçons",
+    "year": 2009,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/512528561823978.jpg",
+    "gender": "UNI",
+    "description": "Dover Street Market is a popular perfume by Comme des Garçons for women and men and was released in 2009. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 512528561823978,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "dover street market comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "mandarin",
+      "black pepper",
+      "coriander",
+      "frankincense",
+      "juniper berry",
+      "cedarwood",
+      "labdanum",
+      "patchouli",
+      "pine"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "ORIENTAL": 2.0,
+      "CITRIC": 2.0,
+      "RESINOUS": 1.0,
+      "SPICY": 3.0,
+      "WOODY": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.7,
+    "scentP": 58,
+    "sillageR": 5.4,
+    "sillageP": 41,
+    "longevityR": 6.5,
+    "longevityP": 42,
+    "bottleR": 6.4,
+    "bottleP": 47
+  },
+  {
+    "name": "Series 3: Incense - Ouarzazate",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8563842834541194.jpg",
+    "gender": "UNI",
+    "description": "Series 3: Incense - Ouarzazate is a perfume by Comme des Garçons for women and men and was released in 2002. The scent is spicy-woody. It is being produced by Puig.",
+    "id": 8563842834541194,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 3 incense  ouarzazate comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "labdanum",
+      "cashmere wood",
+      "musk",
+      "clary sage",
+      "nutmeg",
+      "pepper",
+      "vanilla",
+      "frankincense",
+      "wenge"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "SMOKY": 1.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 2.0,
+      "RESINOUS": 1.0,
+      "WOODY": 2.0,
+      "SPICY": 2.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.2,
+    "scentP": 67,
+    "sillageR": 5.2,
+    "sillageP": 43,
+    "longevityR": 6.4,
+    "longevityP": 48,
+    "bottleR": 5.8,
+    "bottleP": 49
+  },
+  {
+    "name": "Serpentine",
+    "brand": "Comme des Garçons",
+    "year": 2014,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8677549204156898.jpg",
+    "gender": "UNI",
+    "description": "Serpentine is a popular perfume by Comme des Garçons for women and men and was released in 2014. The scent is fresh-green. It is being produced by Puig.",
+    "id": 8677549204156898,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "serpentine comme des garcons",
+    "topNotes": [
+      "grass",
+      "leaves",
+      "galbanum",
+      "iris"
+    ],
+    "heartNotes": [
+      "aldehydes",
+      "ozonic notes",
+      "musk",
+      "nutmeg"
+    ],
+    "baseNotes": [
+      "labdanum",
+      "cedarwood",
+      "benzoin",
+      "juniper",
+      "gaiac wood"
+    ],
+    "mixedNotes": [
+      "grass",
+      "leaves",
+      "galbanum",
+      "iris",
+      "aldehydes",
+      "ozonic notes",
+      "musk",
+      "nutmeg",
+      "labdanum",
+      "cedarwood",
+      "benzoin",
+      "juniper",
+      "gaiac wood"
+    ],
+    "topSignature": {
+      "RESINOUS": 1.0,
+      "POWDERY": 1.0,
+      "FLORAL": 1.0,
+      "GREEN": 2.0
+    },
+    "heartSignature": {
+      "SYNTHETIC": 1.0,
+      "MUSK": 1.0,
+      "ALDEHYDE": 1.0,
+      "SPICY": 1.0,
+      "AQUATIC": 1.0
+    },
+    "baseSignature": {
+      "ORIENTAL": 1.0,
+      "RESINOUS": 2.0,
+      "WOODY": 2.0,
+      "SPICY": 1.0
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "RESINOUS": 3.0,
+      "POWDERY": 1.0,
+      "ALDEHYDE": 1.0,
+      "SPICY": 2.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "AQUATIC": 1.0,
+      "GREEN": 2.0
+    },
+    "substandard": false,
+    "scentR": 7.7,
+    "scentP": 47,
+    "sillageR": 4.7,
+    "sillageP": 30,
+    "longevityR": 5.5,
+    "longevityP": 29,
+    "bottleR": 7.2,
+    "bottleP": 35
+  },
+  {
+    "name": "Dot",
+    "brand": "Comme des Garçons",
+    "year": 2015,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/1319268999519492.jpg",
+    "gender": "UNI",
+    "description": "Dot is a new perfume by Comme des Garçons for women and men and was released in 2015. The scent is citrusy-fresh. It is being produced by Puig.",
+    "id": 1319268999519492,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "dot comme des garcons",
+    "topNotes": [
+      "leaf green",
+      "bitter orange",
+      "pepper"
+    ],
+    "heartNotes": [
+      "osmanthus absolute",
+      "frankincense"
+    ],
+    "baseNotes": [
+      "amberwood"
+    ],
+    "mixedNotes": [
+      "leaf green",
+      "bitter orange",
+      "pepper",
+      "osmanthus absolute",
+      "frankincense",
+      "amberwood"
+    ],
+    "topSignature": {
+      "CITRIC": 1.0,
+      "SPICY": 1.0,
+      "GREEN": 1.0
+    },
+    "heartSignature": {
+      "SMOKY": 1.0,
+      "FRUITY": 1.0,
+      "ORIENTAL": 1.0,
+      "FLORAL": 1.0
+    },
+    "baseSignature": {
+      "AMBER": 1.0
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "FRUITY": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "AMBER": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 7.3,
+    "scentP": 14,
+    "sillageR": 5.6,
+    "sillageP": 13,
+    "longevityR": 5.8,
+    "longevityP": 13,
+    "bottleR": 7.0,
+    "bottleP": 22
+  },
+  {
+    "name": "Monocle Scent Two: Laurel",
+    "brand": "Comme des Garçons",
+    "year": 2009,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/6386517294151765.jpg",
+    "gender": "UNI",
+    "description": "Monocle Scent Two: Laurel is a popular perfume by Comme des Garçons for women and men and was released in 2009. The scent is spicy-green. It is being produced by Puig.",
+    "id": 6386517294151765,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "monocle scent two laurel comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "lemon",
+      "thyme",
+      "pepper",
+      "cinnamon leaf",
+      "galbanum",
+      "laurel",
+      "patchouli",
+      "cedar",
+      "violet",
+      "oak"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 3.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.5,
+    "scentP": 45,
+    "sillageR": 6.1,
+    "sillageP": 26,
+    "longevityR": 7.5,
+    "longevityP": 27,
+    "bottleR": 6.4,
+    "bottleP": 33
+  },
+  {
+    "name": "G I R L by Pharrell Williams",
+    "brand": "Comme des Garçons",
+    "year": 2014,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5983062631096635.jpg",
+    "gender": "UNI",
+    "description": "G I R L by Pharrell Williams is a perfume by Comme des Garçons for women and men and was released in 2014. The scent is spicy-woody. It was last produced by Puig.",
+    "id": 5983062631096635,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "g i r l by pharrell williams comme des garcons",
+    "topNotes": [
+      "lavender",
+      "neroli",
+      "white pepper"
+    ],
+    "heartNotes": [
+      "iris",
+      "storax",
+      "violet"
+    ],
+    "baseNotes": [
+      "patchouli",
+      "sandalwood",
+      "vetiver",
+      "cedar"
+    ],
+    "mixedNotes": [
+      "lavender",
+      "neroli",
+      "white pepper",
+      "iris",
+      "storax",
+      "violet",
+      "patchouli",
+      "sandalwood",
+      "vetiver",
+      "cedar"
+    ],
+    "topSignature": {
+      "CITRIC": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 2.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "heartSignature": {
+      "POWDERY": 1.0,
+      "RESINOUS": 1.0,
+      "FLORAL": 2.0
+    },
+    "baseSignature": {
+      "ORIENTAL": 1.0,
+      "WOODY": 3.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "POWDERY": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 1.0,
+      "WOODY": 3.0,
+      "FLORAL": 4.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 2.0
+    },
+    "substandard": false,
+    "scentR": 6.8,
+    "scentP": 49,
+    "sillageR": 5.7,
+    "sillageP": 35,
+    "longevityR": 7.3,
+    "longevityP": 35,
+    "bottleR": 6.0,
+    "bottleP": 43
+  },
+  {
+    "name": "H\u0026M",
+    "brand": "Comme des Garçons",
+    "year": 2008,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/6588175929445973.jpg",
+    "gender": "UNI",
+    "description": "H\u0026M is a perfume by Comme des Garçons for women and men and was released in 2008. The scent is fresh-woody. The longevity is above-average. The production was apparently discontinued.",
+    "id": 6588175929445973,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "hm comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "patchouli",
+      "cedar"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "ORIENTAL": 1.0,
+      "WOODY": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.2,
+    "scentP": 6,
+    "sillageR": 6.9,
+    "sillageP": 4,
+    "longevityR": 8.8,
+    "longevityP": 6,
+    "bottleR": 4.0,
+    "bottleP": 11
+  },
+  {
+    "name": "Series 2: Red - Rose",
+    "brand": "Comme des Garçons",
+    "year": 2001,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5248172935189765.jpg",
+    "gender": "UNI",
+    "description": "Series 2: Red - Rose is a perfume by Comme des Garçons for women and men and was released in 2001. The scent is flowery-fruity. It is being produced by Puig.",
+    "id": 5248172935189765,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 2 red  rose comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "damascus rose absolute",
+      "raspberry",
+      "moroccan rose",
+      "pink pepper",
+      "geranium"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "FRUITY": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 3.0
+    },
+    "substandard": true,
+    "scentR": 6.6,
+    "scentP": 26,
+    "sillageR": 5.0,
+    "sillageP": 18,
+    "longevityR": 5.6,
+    "longevityP": 18,
+    "bottleR": 5.6,
+    "bottleP": 21
+  },
+  {
+    "name": "Grace by Grace Coddington",
+    "brand": "Comme des Garçons",
+    "year": 2016,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/6304277969677664.jpg",
+    "gender": "FEMALE",
+    "description": "Grace by Grace Coddington is a new perfume by Comme des Garçons for women and was released in 2016. The scent is flowery-green. It is being produced by Puig.",
+    "id": 6304277969677664,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "grace by grace coddington comme des garcons",
+    "topNotes": [
+      "bergamot",
+      "mint",
+      "basil leaf",
+      "cardamom",
+      "pink pepper"
+    ],
+    "heartNotes": [
+      "moroccan rose absolute",
+      "freesia",
+      "peach blossom"
+    ],
+    "baseNotes": [
+      "vetiver",
+      "cashmere wood",
+      "white musk",
+      "crystal amber"
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "mint",
+      "basil leaf",
+      "cardamom",
+      "pink pepper",
+      "moroccan rose absolute",
+      "freesia",
+      "peach blossom",
+      "vetiver",
+      "cashmere wood",
+      "white musk",
+      "crystal amber"
+    ],
+    "topSignature": {
+      "CITRIC": 1.0,
+      "SPICY": 2.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 2.0
+    },
+    "heartSignature": {
+      "FLORAL": 3.0
+    },
+    "baseSignature": {
+      "SYNTHETIC": 1.0,
+      "MUSK": 1.0,
+      "AMBER": 1.0,
+      "WOODY": 2.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "MUSK": 1.0,
+      "CITRIC": 1.0,
+      "AMBER": 1.0,
+      "SPICY": 2.0,
+      "WOODY": 2.0,
+      "FLORAL": 3.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 3.0
+    },
+    "substandard": false,
+    "scentR": 7.9,
+    "scentP": 9,
+    "sillageR": 6.1,
+    "sillageP": 8,
+    "longevityR": 5.6,
+    "longevityP": 9,
+    "bottleR": 7.4,
+    "bottleP": 10
+  },
+  {
+    "name": "Blue Invasion - Blue Encens",
+    "brand": "Comme des Garçons",
+    "year": 2013,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/932108051945763.jpg",
+    "gender": "UNI",
+    "description": "Blue Invasion - Blue Encens is a perfume by Comme des Garçons for women and men and was released in 2013. The scent is spicy-smoky. It is being produced by Puig.",
+    "id": 932108051945763,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "blue invasion  blue encens comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "frankincense",
+      "vermouth",
+      "cardamom",
+      "black pepper",
+      "cinnamon",
+      "mineral amber"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "MINERAL": 1.0,
+      "ORIENTAL": 1.0,
+      "AMBER": 1.0,
+      "SPICY": 3.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.9,
+    "scentP": 108,
+    "sillageR": 5.9,
+    "sillageP": 68,
+    "longevityR": 6.0,
+    "longevityP": 65,
+    "bottleR": 6.9,
+    "bottleP": 69
+  },
+  {
+    "name": "Series 4: Cologne - Anbar",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/1270574576720347.jpg",
+    "gender": "UNI",
+    "description": "Series 4: Cologne - Anbar is a perfume by Comme des Garçons for women and men and was released in 2002. The scent is fresh-citrusy. It is being produced by Puig.",
+    "id": 1270574576720347,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 4 cologne  anbar comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "orange",
+      "lemon",
+      "clove",
+      "musk"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "CITRIC": 3.0,
+      "SPICY": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.8,
+    "scentP": 27,
+    "sillageR": 4.9,
+    "sillageP": 20,
+    "longevityR": 5.9,
+    "longevityP": 20,
+    "bottleR": 5.8,
+    "bottleP": 24
+  },
+  {
+    "name": "Comme des Garçons 2 Man",
+    "brand": "Comme des Garçons",
+    "year": 2004,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8708451127221471.jpg",
+    "gender": "MALE",
+    "description": "Comme des Garçons 2 Man is a popular perfume by Comme des Garçons for men and was released in 2004. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 8708451127221471,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "comme des garcons 2 man comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "curled mint",
+      "kumquat",
+      "leather",
+      "mahogany wood",
+      "nutmeg",
+      "saffron blossom",
+      "vetiver",
+      "frankincense",
+      "white smoke"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SMOKY": 2.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "ANIMALIC": 1.0,
+      "LEATHER": 1.0,
+      "WOODY": 2.0,
+      "SPICY": 2.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.7,
+    "scentP": 293,
+    "sillageR": 6.6,
+    "sillageP": 168,
+    "longevityR": 7.2,
+    "longevityP": 182,
+    "bottleR": 6.9,
+    "bottleP": 166
+  },
+  {
+    "name": "Comme des Garçons Eau de Cologne",
+    "brand": "Comme des Garçons",
+    "year": 1994,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/1704701980980067.jpg",
+    "gender": "UNI",
+    "description": "Comme des Garçons Eau de Cologne is a perfume by Comme des Garçons for women and men and was released in 1994. The scent is spicy-citrusy. The production was apparently discontinued.",
+    "id": 1704701980980067,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "comme des garcons eau de cologne comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "cedar",
+      "labdanum",
+      "storax",
+      "galbanum",
+      "frankincense",
+      "sandalwood",
+      "black pepper",
+      "clove",
+      "hay",
+      "cinnamon",
+      "geranium",
+      "nutmeg",
+      "cardamom",
+      "coriander",
+      "honey",
+      "turkish rose",
+      "lime",
+      "bergamot",
+      "aldehydes",
+      "magnolia"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "GOURMANDY": 1.0,
+      "SMOKY": 1.0,
+      "SYNTHETIC": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 2.0,
+      "RESINOUS": 3.0,
+      "WOODY": 2.0,
+      "SPICY": 6.0,
+      "ALDEHYDE": 1.0,
+      "FLORAL": 3.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.2,
+    "scentP": 5,
+    "sillageR": 7.4,
+    "sillageP": 4,
+    "longevityR": 6.6,
+    "longevityP": 6,
+    "bottleR": 7.6,
+    "bottleP": 7
+  },
+  {
+    "name": "Series 6: Synthetic - Garage",
+    "brand": "Comme des Garçons",
+    "year": 2004,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3958758712763619.jpg",
+    "gender": "UNI",
+    "description": "Series 6: Synthetic - Garage is a perfume by Comme des Garçons for women and men and was released in 2004. The scent is synthetic-leathery. The production was apparently discontinued.",
+    "id": 3958758712763619,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 6 synthetic  garage comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "aldehydes",
+      "floral notes",
+      "kerosene",
+      "leather",
+      "plastic",
+      "vetiver",
+      "cedar"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "ANIMALIC": 1.0,
+      "NON_CLASSIFIED": 2.0,
+      "LEATHER": 1.0,
+      "ALDEHYDE": 1.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.8,
+    "scentP": 32,
+    "sillageR": 6.8,
+    "sillageP": 18,
+    "longevityR": 7.4,
+    "longevityP": 24,
+    "bottleR": 5.3,
+    "bottleP": 24
+  },
+  {
+    "name": "Monocle Scent One: Hinoki",
+    "brand": "Comme des Garçons",
+    "year": 2008,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/6082845369390268.jpg",
+    "gender": "UNI",
+    "description": "Monocle Scent One: Hinoki is a popular perfume by Comme des Garçons for women and men and was released in 2008. The scent is woody-resinous. It is being produced by Puig.",
+    "id": 6082845369390268,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "monocle scent one hinoki comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "cypress",
+      "pine resin",
+      "camphor",
+      "cedar",
+      "thyme",
+      "pine",
+      "georgywood",
+      "frankincense",
+      "tree moss",
+      "vetiver"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MOSSY": 1.0,
+      "SYNTHETIC": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "RESINOUS": 1.0,
+      "WOODY": 6.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 3.0
+    },
+    "substandard": true,
+    "scentR": 8.1,
+    "scentP": 103,
+    "sillageR": 5.8,
+    "sillageP": 56,
+    "longevityR": 7.0,
+    "longevityP": 59,
+    "bottleR": 6.6,
+    "bottleP": 67
+  },
+  {
+    "name": "Chalayan Airborne",
+    "brand": "Comme des Garçons",
+    "year": 2011,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/2759558831657756.jpg",
+    "gender": "UNI",
+    "description": "Chalayan Airborne is a perfume by Comme des Garçons for women and men and was released in 2011. The scent is citrusy-spicy. It is being produced by Puig.",
+    "id": 2759558831657756,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "chalayan airborne comme des garcons",
+    "topNotes": [
+      "bergamot",
+      "neroli",
+      "lemon"
+    ],
+    "heartNotes": [
+      "mastic resin",
+      "juniper berry"
+    ],
+    "baseNotes": [
+      "musk",
+      "frankincense",
+      "cedarwood"
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "neroli",
+      "lemon",
+      "mastic resin",
+      "juniper berry",
+      "musk",
+      "frankincense",
+      "cedarwood"
+    ],
+    "topSignature": {
+      "CITRIC": 3.0,
+      "FLORAL": 1.0
+    },
+    "heartSignature": {
+      "RESINOUS": 1.0,
+      "SPICY": 1.0
+    },
+    "baseSignature": {
+      "SMOKY": 1.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "WOODY": 1.0
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 3.0,
+      "RESINOUS": 1.0,
+      "SPICY": 1.0,
+      "WOODY": 1.0,
+      "FLORAL": 1.0
+    },
+    "substandard": false,
+    "scentR": 7.3,
+    "scentP": 23,
+    "sillageR": 5.2,
+    "sillageP": 14,
+    "longevityR": 6.0,
+    "longevityP": 18,
+    "bottleR": 6.5,
+    "bottleP": 21
+  },
+  {
+    "name": "Holygrapie",
+    "brand": "Comme des Garçons",
+    "year": 2010,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3636187161403580.jpg",
+    "gender": "FEMALE",
+    "description": "Holygrapie is a perfume by Comme des Garçons for women and was released in 2010. The scent is flowery-spicy. It was last produced by Puig.",
+    "id": 3636187161403580,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "holygrapie comme des garcons",
+    "topNotes": [
+      "ginger",
+      "mandarin",
+      "rhubarb",
+      "black pepper"
+    ],
+    "heartNotes": [
+      "iris",
+      "nutmeg",
+      "frankincense",
+      "ylangylang"
+    ],
+    "baseNotes": [
+      "patchouli",
+      "sandalwood",
+      "storax",
+      "vetiver",
+      "cedarwood"
+    ],
+    "mixedNotes": [
+      "ginger",
+      "mandarin",
+      "rhubarb",
+      "black pepper",
+      "iris",
+      "nutmeg",
+      "frankincense",
+      "ylangylang",
+      "patchouli",
+      "sandalwood",
+      "storax",
+      "vetiver",
+      "cedarwood"
+    ],
+    "topSignature": {
+      "FRUITY": 1.0,
+      "CITRIC": 1.0,
+      "SPICY": 2.0,
+      "GREEN": 1.0
+    },
+    "heartSignature": {
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "POWDERY": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 2.0
+    },
+    "baseSignature": {
+      "ORIENTAL": 1.0,
+      "RESINOUS": 1.0,
+      "WOODY": 3.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "FRUITY": 1.0,
+      "ORIENTAL": 2.0,
+      "CITRIC": 1.0,
+      "POWDERY": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 3.0,
+      "WOODY": 3.0,
+      "FLORAL": 2.0,
+      "GREEN": 2.0
+    },
+    "substandard": false,
+    "scentR": 6.8,
+    "scentP": 23,
+    "sillageR": 5.2,
+    "sillageP": 16,
+    "longevityR": 6.6,
+    "longevityP": 16,
+    "bottleR": 6.9,
+    "bottleP": 21
+  },
+  {
+    "name": "Blue Invasion - Blue Cedrat",
+    "brand": "Comme des Garçons",
+    "year": 2013,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/932168568530514.jpg",
+    "gender": "UNI",
+    "description": "Blue Invasion - Blue Cedrat is a perfume by Comme des Garçons for women and men and was released in 2013. The scent is fresh-woody. It is being produced by Puig.",
+    "id": 932168568530514,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "blue invasion  blue cedrat comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "metallic rose accord",
+      "angelica root",
+      "juniper berry",
+      "italian cedar",
+      "virginia cedar"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SPICY": 1.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.4,
+    "scentP": 63,
+    "sillageR": 5.4,
+    "sillageP": 40,
+    "longevityR": 6.2,
+    "longevityP": 39,
+    "bottleR": 7.0,
+    "bottleP": 48
+  },
+  {
+    "name": "Play Green",
+    "brand": "Comme des Garçons",
+    "year": 2012,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4147643088689921.jpg",
+    "gender": "UNI",
+    "description": "Play Green is a popular perfume by Comme des Garçons for women and men and was released in 2012. The scent is fresh-green. It is being produced by Puig.",
+    "id": 4147643088689921,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "play green comme des garcons",
+    "topNotes": [
+      "lime",
+      "spear mint",
+      "juniper berry"
+    ],
+    "heartNotes": [
+      "basil",
+      "jasmine",
+      "mastic resin"
+    ],
+    "baseNotes": [
+      "abelmoschus",
+      "vetiver",
+      "cedar"
+    ],
+    "mixedNotes": [
+      "lime",
+      "spear mint",
+      "juniper berry",
+      "basil",
+      "jasmine",
+      "mastic resin",
+      "abelmoschus",
+      "vetiver",
+      "cedar"
+    ],
+    "topSignature": {
+      "CITRIC": 1.0,
+      "SPICY": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "heartSignature": {
+      "RESINOUS": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "MUSK": 1.0,
+      "WOODY": 2.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "CITRIC": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 1.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 3.0
+    },
+    "substandard": false,
+    "scentR": 7.8,
+    "scentP": 34,
+    "sillageR": 5.0,
+    "sillageP": 21,
+    "longevityR": 6.4,
+    "longevityP": 20,
+    "bottleR": 6.4,
+    "bottleP": 30
+  },
+  {
+    "name": "Wonderoud",
+    "brand": "Comme des Garçons",
+    "year": 2014,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3459613961787701.jpg",
+    "gender": "UNI",
+    "description": "Wonderoud is a perfume by Comme des Garçons for women and men and was released in 2014. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 3459613961787701,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "wonderoud comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "texas cedar orpur",
+      "oud",
+      "indonesian patchouli",
+      "australian sandalwood",
+      "haitian vetiver",
+      "gaiac wood",
+      "pashminol"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "ORIENTAL": 2.0,
+      "WOODY": 6.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.2,
+    "scentP": 74,
+    "sillageR": 6.6,
+    "sillageP": 52,
+    "longevityR": 7.7,
+    "longevityP": 48,
+    "bottleR": 6.6,
+    "bottleP": 55
+  },
+  {
+    "name": "Series 1: Leaves - Tea",
+    "brand": "Comme des Garçons",
+    "year": 2000,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5634074463673583.jpg",
+    "gender": "UNI",
+    "description": "Series 1: Leaves - Tea is a perfume by Comme des Garçons for women and men and was released in 2000. The scent is smoky-spicy. The production was apparently discontinued.",
+    "id": 5634074463673583,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 1 leaves  tea comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "rose",
+      "black tea",
+      "cedar"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "TEA": 1.0,
+      "CITRIC": 1.0,
+      "WOODY": 1.0,
+      "FLORAL": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.8,
+    "scentP": 32,
+    "sillageR": 6.2,
+    "sillageP": 20,
+    "longevityR": 7.3,
+    "longevityP": 20,
+    "bottleR": 6.2,
+    "bottleP": 25
+  },
+  {
+    "name": "Series 3: Incense - Kyoto",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3573806426786145.jpg",
+    "gender": "UNI",
+    "description": "Series 3: Incense - Kyoto is a popular perfume by Comme des Garçons for women and men and was released in 2002. The scent is woody-smoky. It is being produced by Puig.",
+    "id": 3573806426786145,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 3 incense  kyoto comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "amber",
+      "coffee",
+      "patchouli",
+      "strawflower",
+      "teakwood",
+      "vetiver",
+      "virginia cedar",
+      "frankincense",
+      "cypress"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "GOURMANDY": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 2.0,
+      "AMBER": 1.0,
+      "BEVERAGES": 1.0,
+      "WOODY": 4.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 8.1,
+    "scentP": 252,
+    "sillageR": 5.9,
+    "sillageP": 156,
+    "longevityR": 7.0,
+    "longevityP": 168,
+    "bottleR": 6.1,
+    "bottleP": 144
+  },
+  {
+    "name": "Series 5: Sherbet - Peppermint",
+    "brand": "Comme des Garçons",
+    "year": 2003,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/1859425305485763.jpg",
+    "gender": "UNI",
+    "description": "Series 5: Sherbet - Peppermint is a perfume by Comme des Garçons for women and men and was released in 2003. The scent is fresh-green. It is being produced by Puig.",
+    "id": 1859425305485763,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 5 sherbet  peppermint comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "amber",
+      "cardamom",
+      "curled mint",
+      "peppermint",
+      "pink pepper",
+      "white musk",
+      "white pepper"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "AMBER": 1.0,
+      "SPICY": 3.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 2.0
+    },
+    "substandard": true,
+    "scentR": 6.6,
+    "scentP": 34,
+    "sillageR": 4.5,
+    "sillageP": 24,
+    "longevityR": 5.6,
+    "longevityP": 25,
+    "bottleR": 5.2,
+    "bottleP": 28
+  },
+  {
+    "name": "Series 2: Red - Carnation",
+    "brand": "Comme des Garçons",
+    "year": 2001,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/6431378457785903.jpg",
+    "gender": "UNI",
+    "description": "Series 2: Red - Carnation is a perfume by Comme des Garçons for women and men and was released in 2001. The scent is spicy-flowery. It is being produced by Puig.",
+    "id": 6431378457785903,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 2 red  carnation comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "clove",
+      "goji berry juice",
+      "jasmine absolute",
+      "pepper",
+      "red carnation",
+      "red rose",
+      "red pepper"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "GOURMANDY": 1.0,
+      "FRUITY": 1.0,
+      "BEVERAGES": 1.0,
+      "SPICY": 3.0,
+      "FLORAL": 3.0
+    },
+    "substandard": true,
+    "scentR": 7.4,
+    "scentP": 45,
+    "sillageR": 6.2,
+    "sillageP": 23,
+    "longevityR": 7.5,
+    "longevityP": 25,
+    "bottleR": 5.6,
+    "bottleP": 31
+  },
+  {
+    "name": "Series 4: Cologne - Citrico",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3538582235592875.jpg",
+    "gender": "UNI",
+    "description": "Series 4: Cologne - Citrico is a perfume by Comme des Garçons for women and men and was released in 2002. The scent is fresh-citrusy. It is being produced by Puig.",
+    "id": 3538582235592875,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 4 cologne  citrico comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "rosemary",
+      "lemon",
+      "orange blossom",
+      "neroli"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "CITRIC": 3.0,
+      "FLORAL": 2.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.6,
+    "scentP": 17,
+    "sillageR": 4.8,
+    "sillageP": 11,
+    "longevityR": 4.5,
+    "longevityP": 14,
+    "bottleR": 5.9,
+    "bottleP": 17
+  },
+  {
+    "name": "Amazingreen",
+    "brand": "Comme des Garçons",
+    "year": 2012,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/2804084527470133.jpg",
+    "gender": "UNI",
+    "description": "Amazingreen is a perfume by Comme des Garçons for women and men and was released in 2012. The scent is green-fresh. It is being produced by Puig.",
+    "id": 2804084527470133,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "amazingreen comme des garcons",
+    "topNotes": [
+      "green pepper",
+      "hazelnut",
+      "palm leaf"
+    ],
+    "heartNotes": [
+      "ivy leaf",
+      "flintstone",
+      "orris root",
+      "coriander seed"
+    ],
+    "baseNotes": [
+      "smoke",
+      "gunpowder accord",
+      "vetiver",
+      "white musk"
+    ],
+    "mixedNotes": [
+      "green pepper",
+      "hazelnut",
+      "palm leaf",
+      "ivy leaf",
+      "flintstone",
+      "orris root",
+      "coriander seed",
+      "smoke",
+      "gunpowder accord",
+      "vetiver",
+      "white musk"
+    ],
+    "topSignature": {
+      "FRUITY": 1.0,
+      "SPICY": 1.0,
+      "GREEN": 1.0
+    },
+    "heartSignature": {
+      "MINERAL": 1.0,
+      "POWDERY": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "SMOKY": 1.0,
+      "MINERAL": 1.0,
+      "MUSK": 1.0,
+      "WOODY": 1.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "FRUITY": 1.0,
+      "MINERAL": 2.0,
+      "MUSK": 1.0,
+      "POWDERY": 1.0,
+      "SPICY": 2.0,
+      "WOODY": 1.0,
+      "FLORAL": 1.0,
+      "GREEN": 3.0
+    },
+    "substandard": false,
+    "scentR": 6.1,
+    "scentP": 192,
+    "sillageR": 5.2,
+    "sillageP": 131,
+    "longevityR": 6.0,
+    "longevityP": 120,
+    "bottleR": 7.3,
+    "bottleP": 133
+  },
+  {
+    "name": "Series 4: Cologne - Vettiveru",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/2793887148368069.jpg",
+    "gender": "UNI",
+    "description": "Series 4: Cologne - Vettiveru is a popular perfume by Comme des Garçons for women and men and was released in 2002. The scent is fresh-citrusy. It is being produced by Puig.",
+    "id": 2793887148368069,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 4 cologne  vettiveru comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "italian bergamot",
+      "cardamom",
+      "neroli",
+      "haitian vetiver",
+      "cedarwood",
+      "musk"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "CITRIC": 2.0,
+      "SPICY": 1.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.8,
+    "scentP": 155,
+    "sillageR": 5.3,
+    "sillageP": 100,
+    "longevityR": 6.7,
+    "longevityP": 101,
+    "bottleR": 5.4,
+    "bottleP": 86
+  },
+  {
+    "name": "Odeur 71",
+    "brand": "Comme des Garçons",
+    "year": 2000,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/9196792816136486.jpg",
+    "gender": "UNI",
+    "description": "Odeur 71 is a perfume by Comme des Garçons for women and men and was released in 2000. The scent is synthetic-fresh. It is being produced by Puig.",
+    "id": 9196792816136486,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "odeur 71 comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "welded aluminium",
+      "bamboo",
+      "lead pencil sliver",
+      "wood",
+      "moss",
+      "hot metal",
+      "hyacinth",
+      "bay leaf",
+      "lettuce juice",
+      "ink",
+      "toaster",
+      "toner",
+      "dusty light bulb",
+      "white pepper"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MOSSY": 1.0,
+      "MINERAL": 1.0,
+      "NON_CLASSIFIED": 5.0,
+      "WOODY": 2.0,
+      "SPICY": 2.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 3.0
+    },
+    "substandard": true,
+    "scentR": 6.5,
+    "scentP": 33,
+    "sillageR": 4.8,
+    "sillageP": 20,
+    "longevityR": 6.8,
+    "longevityP": 26,
+    "bottleR": 5.8,
+    "bottleP": 30
+  },
+  {
+    "name": "Comme des Garçons",
+    "brand": "Comme des Garçons",
+    "year": 2011,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8182144463008919.jpg",
+    "gender": "UNI",
+    "description": "Comme des Garçons is a perfume by Comme des Garçons for women and men and was released in 2011. The scent is synthetic-flowery. It is being produced by Puig.",
+    "id": 8182144463008919,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "comme des garcons comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "aldehydes",
+      "safraleine",
+      "hawthorn",
+      "lilac blossom oxide",
+      "industrial adhesive",
+      "parcel tape",
+      "musk",
+      "storax"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 2.0,
+      "MUSK": 1.0,
+      "NON_CLASSIFIED": 3.0,
+      "RESINOUS": 1.0,
+      "ALDEHYDE": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.2,
+    "scentP": 29,
+    "sillageR": 5.2,
+    "sillageP": 22,
+    "longevityR": 6.8,
+    "longevityP": 22,
+    "bottleR": 6.3,
+    "bottleP": 31
+  },
+  {
+    "name": "Series 2: Red - Sequoia",
+    "brand": "Comme des Garçons",
+    "year": 2001,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/6283410561051987.jpg",
+    "gender": "UNI",
+    "description": "Series 2: Red - Sequoia is a perfume by Comme des Garçons for women and men and was released in 2001. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 6283410561051987,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 2 red  sequoia comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "apple",
+      "chinese oud",
+      "karokarounde",
+      "mahogany",
+      "opoponax",
+      "rum"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "ALCOHOLIC_DISTILLED": 1.0,
+      "GOURMANDY": 1.0,
+      "FRUITY": 1.0,
+      "ORIENTAL": 1.0,
+      "BEVERAGES": 1.0,
+      "RESINOUS": 1.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.4,
+    "scentP": 41,
+    "sillageR": 6.1,
+    "sillageP": 23,
+    "longevityR": 7.1,
+    "longevityP": 25,
+    "bottleR": 5.4,
+    "bottleP": 27
+  },
+  {
+    "name": "Series 8: Energy C - Grapefruit",
+    "brand": "Comme des Garçons",
+    "year": 2008,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/1495934205991545.jpg",
+    "gender": "UNI",
+    "description": "Series 8: Energy C - Grapefruit is a perfume by Comme des Garçons for women and men and was released in 2008. The scent is citrusy-fresh. It is being produced by Puig.",
+    "id": 1495934205991545,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 8 energy c  grapefruit comme des garcons",
+    "topNotes": [
+      "grapefruit",
+      "petitgrain",
+      "black currant"
+    ],
+    "heartNotes": [
+      "jasmine",
+      "mandarin",
+      "neroli"
+    ],
+    "baseNotes": [
+      "oakmoss",
+      "iris",
+      "musk"
+    ],
+    "mixedNotes": [
+      "grapefruit",
+      "petitgrain",
+      "black currant",
+      "jasmine",
+      "mandarin",
+      "neroli",
+      "oakmoss",
+      "iris",
+      "musk"
+    ],
+    "topSignature": {
+      "SYNTHETIC": 1.0,
+      "FRUITY": 1.0,
+      "CITRIC": 2.0
+    },
+    "heartSignature": {
+      "CITRIC": 2.0,
+      "FLORAL": 2.0
+    },
+    "baseSignature": {
+      "MOSSY": 1.0,
+      "MUSK": 1.0,
+      "POWDERY": 1.0,
+      "FLORAL": 1.0
+    },
+    "mixedSignature": {
+      "MOSSY": 1.0,
+      "SYNTHETIC": 1.0,
+      "FRUITY": 1.0,
+      "MUSK": 1.0,
+      "CITRIC": 4.0,
+      "POWDERY": 1.0,
+      "FLORAL": 3.0
+    },
+    "substandard": false,
+    "scentR": 6.7,
+    "scentP": 17,
+    "sillageR": 4.7,
+    "sillageP": 10,
+    "longevityR": 5.7,
+    "longevityP": 11,
+    "bottleR": 4.2,
+    "bottleP": 16
+  },
+  {
+    "name": "Series 6: Synthetic - Soda",
+    "brand": "Comme des Garçons",
+    "year": 2004,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5831271351221288.jpg",
+    "gender": "UNI",
+    "description": "Series 6: Synthetic - Soda is a perfume by Comme des Garçons for women and men and was released in 2004. The scent is citrusy-synthetic. The production was apparently discontinued.",
+    "id": 5831271351221288,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 6 synthetic  soda comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "aldehydes",
+      "galaxolid",
+      "isoeugenol",
+      "lily",
+      "lime",
+      "rum",
+      "citric notes"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "ALCOHOLIC_DISTILLED": 1.0,
+      "GOURMANDY": 1.0,
+      "SYNTHETIC": 3.0,
+      "MUSK": 1.0,
+      "CITRIC": 2.0,
+      "BEVERAGES": 1.0,
+      "ALDEHYDE": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.2,
+    "scentP": 12,
+    "sillageR": 5.4,
+    "sillageP": 6,
+    "longevityR": 5.5,
+    "longevityP": 9,
+    "bottleR": 4.9,
+    "bottleP": 15
+  },
+  {
+    "name": "Blackpepper",
+    "brand": "Comme des Garçons",
+    "year": 2016,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8730163136341016.jpg",
+    "gender": "UNI",
+    "description": "Blackpepper is a new perfume by Comme des Garçons for women and men and was released in 2016. The scent is spicy-woody. It is being produced by Puig.",
+    "id": 8730163136341016,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "blackpepper comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "madagascar pepper",
+      "cedarwood",
+      "akigalawood",
+      "tonka bean",
+      "musk accord"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "SPICY": 1.0,
+      "WOODY": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.6,
+    "scentP": 17,
+    "sillageR": 6.4,
+    "sillageP": 13,
+    "longevityR": 7.1,
+    "longevityP": 13,
+    "bottleR": 8.3,
+    "bottleP": 19
+  },
+  {
+    "name": "Comme 3",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/2072301405216820.jpg",
+    "gender": "UNI",
+    "description": "Comme 3 is a popular perfume by Comme des Garçons for women and men and was released in 2002. The scent is green-fresh. It is being produced by Puig.",
+    "id": 2072301405216820,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "comme 3 comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "ambergris",
+      "basil",
+      "birch essence",
+      "angelica",
+      "gingko",
+      "gaiac wood",
+      "jasmine sambac",
+      "java vetiver",
+      "cardamom",
+      "lebanon cedar",
+      "magnolia leaf",
+      "mandarin",
+      "mace",
+      "guinea pepper",
+      "patchouli",
+      "rose oxide",
+      "red pepper",
+      "sandalwood",
+      "black rose leaf",
+      "black currant blossom",
+      "frankincense"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 2.0,
+      "ANIMALIC": 1.0,
+      "CITRIC": 1.0,
+      "NON_CLASSIFIED": 1.0,
+      "WOODY": 5.0,
+      "SPICY": 4.0,
+      "FLORAL": 5.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 4.0
+    },
+    "substandard": true,
+    "scentR": 7.7,
+    "scentP": 52,
+    "sillageR": 5.8,
+    "sillageP": 33,
+    "longevityR": 6.9,
+    "longevityP": 34,
+    "bottleR": 7.4,
+    "bottleP": 44
+  },
+  {
+    "name": "Daphne",
+    "brand": "Comme des Garçons",
+    "year": 2009,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/332429194677974.jpg",
+    "gender": "FEMALE",
+    "description": "Daphne is a popular perfume by Comme des Garçons for women and was released in 2009. The scent is flowery-spicy. The longevity is above-average. It is being produced by Puig.",
+    "id": 332429194677974,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "daphne comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "amber",
+      "bitter orange",
+      "iris",
+      "oud",
+      "patchouli",
+      "saffron",
+      "tuberose",
+      "tunisian jasmine",
+      "vanilla",
+      "frankincense",
+      "rosa centifolia"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "ORIENTAL": 4.0,
+      "AMBER": 1.0,
+      "CITRIC": 1.0,
+      "POWDERY": 1.0,
+      "WOODY": 1.0,
+      "SPICY": 1.0,
+      "FLORAL": 4.0
+    },
+    "substandard": true,
+    "scentR": 7.6,
+    "scentP": 122,
+    "sillageR": 7.7,
+    "sillageP": 77,
+    "longevityR": 8.2,
+    "longevityP": 83,
+    "bottleR": 6.8,
+    "bottleP": 85
+  },
+  {
+    "name": "Series 5: Sherbet - Rhubarb",
+    "brand": "Comme des Garçons",
+    "year": 2003,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/7065204831846315.jpg",
+    "gender": "UNI",
+    "description": "Series 5: Sherbet - Rhubarb is a perfume by Comme des Garçons for women and men and was released in 2003. The scent is fruity-fresh. It is being produced by Puig.",
+    "id": 7065204831846315,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 5 sherbet  rhubarb comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "camellia",
+      "lychee",
+      "orchid",
+      "rhubarb",
+      "vanilla cream"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "GOURMANDY": 1.0,
+      "FRUITY": 2.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "FLORAL": 2.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.3,
+    "scentP": 64,
+    "sillageR": 4.8,
+    "sillageP": 35,
+    "longevityR": 6.0,
+    "longevityP": 45,
+    "bottleR": 4.6,
+    "bottleP": 46
+  },
+  {
+    "name": "Series 1: Leaves - Lily",
+    "brand": "Comme des Garçons",
+    "year": 2000,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8635611926650468.jpg",
+    "gender": "UNI",
+    "description": "Series 1: Leaves - Lily is a perfume by Comme des Garçons for women and men and was released in 2000. The scent is flowery-green. It was last produced by Puig.",
+    "id": 8635611926650468,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 1 leaves  lily comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "lilac",
+      "freesia",
+      "lilyofthevalley",
+      "rose"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "FLORAL": 4.0
+    },
+    "substandard": true,
+    "scentR": 7.1,
+    "scentP": 33,
+    "sillageR": 5.2,
+    "sillageP": 16,
+    "longevityR": 5.9,
+    "longevityP": 21,
+    "bottleR": 5.8,
+    "bottleP": 23
+  },
+  {
+    "name": "Guerrilla 2",
+    "brand": "Comme des Garçons",
+    "year": 2006,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3658697896232986.jpg",
+    "gender": "UNI",
+    "description": "Guerrilla 2 is a perfume by Comme des Garçons for women and men and was released in 2006. The scent is fruity-spicy. The production was apparently discontinued.",
+    "id": 3658697896232986,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "guerrilla 2 comme des garcons",
+    "topNotes": [
+      "bergamot",
+      "ginger",
+      "pink pepper"
+    ],
+    "heartNotes": [
+      "raspberry",
+      "curcuma",
+      "red paprika",
+      "tuberose"
+    ],
+    "baseNotes": [
+      "musk",
+      "vetiver",
+      "cedarwood"
+    ],
+    "mixedNotes": [
+      "bergamot",
+      "ginger",
+      "pink pepper",
+      "raspberry",
+      "curcuma",
+      "red paprika",
+      "tuberose",
+      "musk",
+      "vetiver",
+      "cedarwood"
+    ],
+    "topSignature": {
+      "CITRIC": 1.0,
+      "SPICY": 2.0
+    },
+    "heartSignature": {
+      "FRUITY": 2.0,
+      "SPICY": 2.0,
+      "FLORAL": 1.0
+    },
+    "baseSignature": {
+      "MUSK": 1.0,
+      "WOODY": 2.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "FRUITY": 2.0,
+      "MUSK": 1.0,
+      "CITRIC": 1.0,
+      "SPICY": 4.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 6.6,
+    "scentP": 38,
+    "sillageR": 4.8,
+    "sillageP": 24,
+    "longevityR": 6.4,
+    "longevityP": 29,
+    "bottleR": 6.8,
+    "bottleP": 28
+  },
+  {
+    "name": "Guerrilla 1",
+    "brand": "Comme des Garçons",
+    "year": 2006,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/3658697896233910.jpg",
+    "gender": "UNI",
+    "description": "Guerrilla 1 is a perfume by Comme des Garçons for women and men and was released in 2006. The scent is spicy-synthetic. It is being produced by Puig.",
+    "id": 3658697896233910,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "guerrilla 1 comme des garcons",
+    "topNotes": [
+      "pear",
+      "clove",
+      "saffron"
+    ],
+    "heartNotes": [
+      "champaca flower",
+      "black pepper"
+    ],
+    "baseNotes": [
+      "musk",
+      "vetiver",
+      "cedarwood"
+    ],
+    "mixedNotes": [
+      "pear",
+      "clove",
+      "saffron",
+      "champaca flower",
+      "black pepper",
+      "musk",
+      "vetiver",
+      "cedarwood"
+    ],
+    "topSignature": {
+      "FRUITY": 1.0,
+      "SPICY": 2.0
+    },
+    "heartSignature": {
+      "SPICY": 1.0,
+      "FLORAL": 1.0
+    },
+    "baseSignature": {
+      "MUSK": 1.0,
+      "WOODY": 2.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "FRUITY": 1.0,
+      "MUSK": 1.0,
+      "SPICY": 3.0,
+      "WOODY": 2.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 7.0,
+    "scentP": 34,
+    "sillageR": 5.9,
+    "sillageP": 18,
+    "longevityR": 7.5,
+    "longevityP": 21,
+    "bottleR": 7.3,
+    "bottleP": 26
+  },
+  {
+    "name": "Series 3: Incense - Jaisalmer",
+    "brand": "Comme des Garçons",
+    "year": 2002,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4762175879279370.jpg",
+    "gender": "UNI",
+    "description": "Series 3: Incense - Jaisalmer is a perfume by Comme des Garçons for women and men and was released in 2002. The scent is spicy-woody. It is being produced by Puig.",
+    "id": 4762175879279370,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 3 incense  jaisalmer comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "cardamom",
+      "frankincense",
+      "cinnamon",
+      "amber",
+      "benzoin",
+      "pimento",
+      "berries",
+      "gaiac wood",
+      "ebony"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SMOKY": 1.0,
+      "FRUITY": 1.0,
+      "ORIENTAL": 2.0,
+      "AMBER": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 3.0,
+      "WOODY": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.4,
+    "scentP": 80,
+    "sillageR": 5.8,
+    "sillageP": 43,
+    "longevityR": 7.4,
+    "longevityP": 49,
+    "bottleR": 5.9,
+    "bottleP": 44
+  },
+  {
+    "name": "Series 5: Sherbet - Cinnamon",
+    "brand": "Comme des Garçons",
+    "year": 2003,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/1959096725462209.jpg",
+    "gender": "UNI",
+    "description": "Series 5: Sherbet - Cinnamon is a perfume by Comme des Garçons for women and men and was released in 2003. The scent is spicy-fresh. It is being produced by Puig.",
+    "id": 1959096725462209,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 5 sherbet  cinnamon comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "benzoin",
+      "bergamot",
+      "carnation",
+      "saffron",
+      "teakwood",
+      "vetiver",
+      "white musk",
+      "cedar",
+      "cinnamon"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 1.0,
+      "RESINOUS": 1.0,
+      "SPICY": 2.0,
+      "WOODY": 3.0,
+      "FLORAL": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.3,
+    "scentP": 43,
+    "sillageR": 4.8,
+    "sillageP": 24,
+    "longevityR": 5.7,
+    "longevityP": 29,
+    "bottleR": 4.5,
+    "bottleP": 30
+  },
+  {
+    "name": "Series Luxe: Patchouli (Eau de Parfum)",
+    "brand": "Comme des Garçons",
+    "year": 2007,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4122867634558786.jpg",
+    "gender": "UNI",
+    "description": "Series Luxe: Patchouli (Eau de Parfum) is a popular perfume by Comme des Garçons for women and men and was released in 2007. The scent is spicy-woody. It is being produced by Puig.",
+    "id": 4122867634558786,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series luxe patchouli eau de parfum comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "white pepper",
+      "fenugreek",
+      "lovage",
+      "oak extract",
+      "opoponax",
+      "patchouli",
+      "cedar",
+      "vanilla",
+      "sandalwood",
+      "vetiver"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "ORIENTAL": 2.0,
+      "RESINOUS": 1.0,
+      "SPICY": 2.0,
+      "WOODY": 4.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.6,
+    "scentP": 12,
+    "sillageR": 7.2,
+    "sillageP": 9,
+    "longevityR": 7.6,
+    "longevityP": 9,
+    "bottleR": 5.7,
+    "bottleP": 14
+  },
+  {
+    "name": "Series 1: Leaves - Mint",
+    "brand": "Comme des Garçons",
+    "year": 2000,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/8635611899085214.jpg",
+    "gender": "UNI",
+    "description": "Series 1: Leaves - Mint is a perfume by Comme des Garçons for women and men and was released in 2000. The scent is spicy-fresh. The production was apparently discontinued.",
+    "id": 8635611899085214,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 1 leaves  mint comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "galbanum",
+      "mint",
+      "pepper"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "RESINOUS": 1.0,
+      "SPICY": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 6.8,
+    "scentP": 5,
+    "sillageR": 5.6,
+    "sillageP": 4,
+    "longevityR": 5.6,
+    "longevityP": 4,
+    "bottleR": 5.3,
+    "bottleP": 12
+  },
+  {
+    "name": "Series 7: Sweet - Sticky Cake",
+    "brand": "Comme des Garçons",
+    "year": 2005,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/338552455359.jpg",
+    "gender": "UNI",
+    "description": "Series 7: Sweet - Sticky Cake is a perfume by Comme des Garçons for women and men and was released in 2005. The scent is gourmand-sweet. The production was apparently discontinued.",
+    "id": 338552455359,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 7 sweet  sticky cake comme des garcons",
+    "topNotes": [
+      "date",
+      "honey",
+      "almond",
+      "pistachio"
+    ],
+    "heartNotes": [
+      "brown sugar",
+      "iris",
+      "milk"
+    ],
+    "baseNotes": [
+      "ambrette seed",
+      "grain",
+      "myrrh"
+    ],
+    "mixedNotes": [
+      "date",
+      "honey",
+      "almond",
+      "pistachio",
+      "brown sugar",
+      "iris",
+      "milk",
+      "ambrette seed",
+      "grain",
+      "myrrh"
+    ],
+    "topSignature": {
+      "GOURMANDY": 1.0,
+      "FRUITY": 2.0,
+      "UNKNOWN": 1.0
+    },
+    "heartSignature": {
+      "GOURMANDY": 2.0,
+      "BEVERAGES": 1.0,
+      "POWDERY": 1.0,
+      "FLORAL": 1.0
+    },
+    "baseSignature": {
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "RESINOUS": 1.0,
+      "GRAIN": 1.0
+    },
+    "mixedSignature": {
+      "GOURMANDY": 3.0,
+      "FRUITY": 2.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "BEVERAGES": 1.0,
+      "POWDERY": 1.0,
+      "RESINOUS": 1.0,
+      "UNKNOWN": 1.0,
+      "FLORAL": 1.0,
+      "GRAIN": 1.0
+    },
+    "substandard": false,
+    "scentR": 6.2,
+    "scentP": 9,
+    "sillageR": 5.9,
+    "sillageP": 7,
+    "longevityR": 6.3,
+    "longevityP": 10,
+    "bottleR": 6.0,
+    "bottleP": 16
+  },
+  {
+    "name": "Series 7: Sweet - Burnt Sugar",
+    "brand": "Comme des Garçons",
+    "year": 2005,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/2678388104503161.jpg",
+    "gender": "UNI",
+    "description": "Series 7: Sweet - Burnt Sugar is a perfume by Comme des Garçons for women and men and was released in 2005. The scent is gourmand-sweet. The production was apparently discontinued.",
+    "id": 2678388104503161,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "series 7 sweet  burnt sugar comme des garcons",
+    "topNotes": [
+      "neroli",
+      "star anise",
+      "cinnamon bark",
+      "lemon blossom"
+    ],
+    "heartNotes": [
+      "honey",
+      "jasmine",
+      "cake"
+    ],
+    "baseNotes": [
+      "vanilla",
+      "warm milk"
+    ],
+    "mixedNotes": [
+      "neroli",
+      "star anise",
+      "cinnamon bark",
+      "lemon blossom",
+      "honey",
+      "jasmine",
+      "cake",
+      "vanilla",
+      "warm milk"
+    ],
+    "topSignature": {
+      "CITRIC": 2.0,
+      "SPICY": 2.0,
+      "FLORAL": 2.0
+    },
+    "heartSignature": {
+      "GOURMANDY": 2.0,
+      "FLORAL": 1.0
+    },
+    "baseSignature": {
+      "GOURMANDY": 1.0,
+      "ORIENTAL": 1.0,
+      "BEVERAGES": 1.0
+    },
+    "mixedSignature": {
+      "GOURMANDY": 3.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 2.0,
+      "BEVERAGES": 1.0,
+      "SPICY": 2.0,
+      "FLORAL": 3.0
+    },
+    "substandard": false,
+    "scentR": 7.3,
+    "scentP": 6,
+    "sillageR": 6.5,
+    "sillageP": 4,
+    "longevityR": 6.0,
+    "longevityP": 5,
+    "bottleR": 6.5,
+    "bottleP": 12
+  },
+  {
+    "name": "Гоша Рубчинский / Gosha Rubchinskiy",
+    "brand": "Comme des Garçons",
+    "year": 2016,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/2257121788631238.jpg",
+    "gender": "UNI",
+    "description": "Гоша Рубчинский / Gosha Rubchinskiy is a new perfume by Comme des Garçons for women and men and was released in 2016.",
+    "id": 2257121788631238,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "   gosha rubchinskiy comme des garcons",
+    "topNotes": [
+      "angelica root",
+      "buchu"
+    ],
+    "heartNotes": [
+      "mandarin seed",
+      "blue chamomile"
+    ],
+    "baseNotes": [
+      "storax",
+      "haitian vetiver",
+      "patchouli"
+    ],
+    "mixedNotes": [
+      "angelica root",
+      "buchu",
+      "mandarin seed",
+      "blue chamomile",
+      "storax",
+      "haitian vetiver",
+      "patchouli"
+    ],
+    "topSignature": {
+      "HERBACIOUS": 2.0,
+      "GREEN": 2.0
+    },
+    "heartSignature": {
+      "UNKNOWN": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0
+    },
+    "baseSignature": {
+      "ORIENTAL": 1.0,
+      "RESINOUS": 1.0,
+      "WOODY": 1.0,
+      "GREEN": 1.0
+    },
+    "mixedSignature": {
+      "ORIENTAL": 1.0,
+      "RESINOUS": 1.0,
+      "WOODY": 1.0,
+      "UNKNOWN": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 3.0,
+      "GREEN": 3.0
+    },
+    "substandard": false,
+    "scentR": 0.0,
+    "scentP": 0,
+    "sillageR": 0.0,
+    "sillageP": 0,
+    "longevityR": 0.0,
+    "longevityP": 0,
+    "bottleR": 5.9,
+    "bottleP": 11
+  },
+  {
+    "name": "8 88",
+    "brand": "Comme des Garçons",
+    "year": 2007,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4003850435723835.jpg",
+    "gender": "UNI",
+    "description": "8 88 is a perfume by Comme des Garçons for women and men and was released in 2007. The scent is spicy-woody. It was last produced by Puig.",
+    "id": 4003850435723835,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "8 88 comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "amber",
+      "california bay laurel",
+      "coriander",
+      "cumin",
+      "patchouli",
+      "geranium",
+      "safraleine",
+      "frankincense"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "SYNTHETIC": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 2.0,
+      "AMBER": 1.0,
+      "SPICY": 4.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": true,
+    "scentR": 7.2,
+    "scentP": 164,
+    "sillageR": 6.4,
+    "sillageP": 109,
+    "longevityR": 7.4,
+    "longevityP": 112,
+    "bottleR": 6.8,
+    "bottleP": 115
+  },
+  {
+    "name": "Play",
+    "brand": "Comme des Garçons",
+    "year": 2007,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4003851164710677.jpg",
+    "gender": "UNI",
+    "description": "Play is a perfume by Comme des Garçons for women and men and was released in 2007. The scent is spicy-fresh. The production was apparently discontinued.",
+    "id": 4003851164710677,
+    "affiliateProducts": {
+    },
+    "inProduction": false,
+    "searchableName": "play comme des garcons",
+    "topNotes": [
+      "bitter orange",
+      "lime",
+      "pepper",
+      "saffron"
+    ],
+    "heartNotes": [
+      "caraway",
+      "sage"
+    ],
+    "baseNotes": [
+      "oakmoss",
+      "musk",
+      "patchouli"
+    ],
+    "mixedNotes": [
+      "bitter orange",
+      "lime",
+      "pepper",
+      "saffron",
+      "caraway",
+      "sage",
+      "oakmoss",
+      "musk",
+      "patchouli"
+    ],
+    "topSignature": {
+      "CITRIC": 2.0,
+      "SPICY": 2.0
+    },
+    "heartSignature": {
+      "SPICY": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "MOSSY": 1.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0
+    },
+    "mixedSignature": {
+      "MOSSY": 1.0,
+      "MUSK": 1.0,
+      "ORIENTAL": 1.0,
+      "CITRIC": 2.0,
+      "SPICY": 3.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "substandard": false,
+    "scentR": 6.0,
+    "scentP": 7,
+    "sillageR": 5.4,
+    "sillageP": 6,
+    "longevityR": 6.7,
+    "longevityP": 6,
+    "bottleR": 5.6,
+    "bottleP": 15
+  },
+  {
+    "name": "White",
+    "brand": "Comme des Garçons",
+    "year": 1995,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/5007816542730004.jpg",
+    "gender": "UNI",
+    "description": "White is a perfume by Comme des Garçons for women and men and was released in 1995. The scent is spicy-woody. The longevity is above-average. It is being produced by Puig.",
+    "id": 5007816542730004,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "white comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "clove",
+      "pomegranate",
+      "cardamom",
+      "coriander",
+      "lilyofthevalley",
+      "may rose",
+      "nutmeg",
+      "pepper",
+      "tagetes absolute",
+      "cedarwood",
+      "cinnamon leaf"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "FRUITY": 1.0,
+      "SPICY": 6.0,
+      "WOODY": 1.0,
+      "FLORAL": 3.0
+    },
+    "substandard": true,
+    "scentR": 7.1,
+    "scentP": 39,
+    "sillageR": 7.3,
+    "sillageP": 23,
+    "longevityR": 8.1,
+    "longevityP": 26,
+    "bottleR": 7.5,
+    "bottleP": 29
+  },
+  {
+    "name": "Series 2: Red - Palisander",
+    "brand": "Comme des Garçons",
+    "year": 2001,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/7218816066238107.jpg",
+    "gender": "UNI",
+    "description": "Series 2: Red - Palisander is a popular perfume by Comme des Garçons for women and men and was released in 2001. The scent is woody-spicy. It is being produced by Puig.",
+    "id": 7218816066238107,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "series 2 red  palisander comme des garcons",
+    "topNotes": [
+    ],
+    "heartNotes": [
+    ],
+    "baseNotes": [
+    ],
+    "mixedNotes": [
+      "myrrh",
+      "rosewood",
+      "red chili",
+      "red cedar",
+      "saffron"
+    ],
+    "topSignature": {
+    },
+    "heartSignature": {
+    },
+    "baseSignature": {
+    },
+    "mixedSignature": {
+      "ORIENTAL": 1.0,
+      "RESINOUS": 1.0,
+      "WOODY": 2.0,
+      "SPICY": 2.0
+    },
+    "substandard": true,
+    "scentR": 7.6,
+    "scentP": 42,
+    "sillageR": 5.3,
+    "sillageP": 27,
+    "longevityR": 6.3,
+    "longevityP": 26,
+    "bottleR": 5.8,
+    "bottleP": 34
+  },
+  {
+    "name": "Play Black",
+    "brand": "Comme des Garçons",
+    "year": 2012,
+    "url": "",
+    "pictureURL": "https://use-your-own-cdn.cloudfront.net/4147647521830836.jpg",
+    "gender": "UNI",
+    "description": "Play Black is a perfume by Comme des Garçons for women and men and was released in 2012. The scent is spicy-woody. It is being produced by Puig.",
+    "id": 4147647521830836,
+    "affiliateProducts": {
+    },
+    "inProduction": true,
+    "searchableName": "play black comme des garcons",
+    "topNotes": [
+      "california bay laurel",
+      "red pepper",
+      "black pepper"
+    ],
+    "heartNotes": [
+      "black tea",
+      "thyme",
+      "violet"
+    ],
+    "baseNotes": [
+      "tree moss",
+      "birch tar",
+      "frankincense"
+    ],
+    "mixedNotes": [
+      "california bay laurel",
+      "red pepper",
+      "black pepper",
+      "black tea",
+      "thyme",
+      "violet",
+      "tree moss",
+      "birch tar",
+      "frankincense"
+    ],
+    "topSignature": {
+      "SPICY": 3.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "heartSignature": {
+      "TEA": 1.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 1.0,
+      "GREEN": 1.0
+    },
+    "baseSignature": {
+      "MOSSY": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "ANIMALIC": 1.0,
+      "LEATHER": 1.0
+    },
+    "mixedSignature": {
+      "MOSSY": 1.0,
+      "TEA": 1.0,
+      "SMOKY": 1.0,
+      "ORIENTAL": 1.0,
+      "ANIMALIC": 1.0,
+      "LEATHER": 1.0,
+      "SPICY": 3.0,
+      "FLORAL": 1.0,
+      "HERBACIOUS": 2.0,
+      "GREEN": 2.0
+    },
+    "substandard": false,
+    "scentR": 7.4,
+    "scentP": 29,
+    "sillageR": 5.0,
+    "sillageP": 16,
+    "longevityR": 7.3,
+    "longevityP": 15,
+    "bottleR": 6.2,
+    "bottleP": 23
+  }
+]
