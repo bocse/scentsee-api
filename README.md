@@ -2,6 +2,9 @@
 
 The API for retrieving recommendations via the ScentSee API.
 Part of Scentsee API architecture.
+Note that this require the Maven build and installation of Backend and Core services
+https://github.com/bocse/scentsee-backend
+
 
 ### What is this repository for? ###
 
